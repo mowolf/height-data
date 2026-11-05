@@ -1,0 +1,51 @@
+{
+ "format_version": 1,
+ "code": "JE",
+ "name": "Jersey",
+ "built_at": "2026-11-05T06:31:17Z",
+ "buffer_km": 50,
+ "bbox": [
+  -2.242,
+  49.1713,
+  -2.0083,
+  49.267
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N49W003",
+    "bytes": 38571,
+    "sha256": "4db03d5c9c1ca7f869cbcbdc1eb2049a9518acda62814818f73d807e54da3849"
+   },
+   {
+    "name": "N49W002",
+    "bytes": 382788,
+    "sha256": "d4871a731bf9e4b46e93a8ec28f6e652d7938d924ea84597734748cc91665eca"
+   },
+   {
+    "name": "N48W003",
+    "bytes": 580055,
+    "sha256": "17bbc0b2aa61d8a0012b07e622a4b052a6f5240c79c94947429ab750733764b6"
+   },
+   {
+    "name": "N48W002",
+    "bytes": 716798,
+    "sha256": "513f88e01b7a12b6dfa68ed2165765cb6a6dd7ee5dc6f3dae840cde169397053"
+   }
+  ],
+  "30": []
+ },
+ "peaks": {
+  "path": "peaks/JE.202611050631.sqlite.deflate",
+  "bytes": 10712,
+  "uncompressed_bytes": 65536,
+  "sha256": "6cdf98f756a0e7b2c2ebaea25ce0f0df75fc724b45d7be60be8053dc6592664c",
+  "count": 52,
+  "schema_version": 1
+ },
+ "neighbours": [
+  "FR",
+  "GG"
+ ]
+}

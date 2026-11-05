@@ -1,6 +1,6 @@
 {
  "format_version": 1,
- "generated_at": "2026-11-05T06:30:47Z",
+ "generated_at": "2026-11-05T06:31:22Z",
  "attribution": [
   {
    "name": "Copernicus DEM",
@@ -713,6 +713,114 @@
    "peaks": 3493,
    "neighbours": [
     "GB"
+   ]
+  },
+  {
+   "code": "IM",
+   "name": "Isle of Man",
+   "bbox": [
+    -4.7902,
+    54.057,
+    -4.3119,
+    54.419
+   ],
+   "manifest": "countries/IM.json",
+   "built_at": "2026-11-05T06:30:50Z",
+   "bytes": {
+    "90": 1336324,
+    "30": 2723606
+   },
+   "tiles": {
+    "90": 6,
+    "30": 2
+   },
+   "peaks": 1536,
+   "neighbours": [
+    "GB"
+   ]
+  },
+  {
+   "code": "IS",
+   "name": "Iceland",
+   "bbox": [
+    -24.5399,
+    63.3967,
+    -13.5029,
+    66.5642
+   ],
+   "manifest": "countries/IS.json",
+   "built_at": "2026-11-05T06:30:52Z",
+   "bytes": {
+    "90": 9482285,
+    "30": 46917597
+   },
+   "tiles": {
+    "90": 46,
+    "30": 23
+   },
+   "peaks": 1740,
+   "neighbours": []
+  },
+  {
+   "code": "IT",
+   "name": "Italy",
+   "bbox": [
+    6.6027,
+    35.4892,
+    18.5174,
+    47.0852
+   ],
+   "manifest": "countries/IT.json",
+   "built_at": "2026-11-05T06:30:56Z",
+   "bytes": {
+    "90": 65595350,
+    "30": 385383433
+   },
+   "tiles": {
+    "90": 95,
+    "30": 67
+   },
+   "peaks": 70654,
+   "neighbours": [
+    "FR",
+    "DE",
+    "AL",
+    "TN",
+    "GR",
+    "AT",
+    "CH",
+    "LI",
+    "HR",
+    "SI",
+    "SM",
+    "MC",
+    "VA",
+    "MT"
+   ]
+  },
+  {
+   "code": "JE",
+   "name": "Jersey",
+   "bbox": [
+    -2.242,
+    49.1713,
+    -2.0083,
+    49.267
+   ],
+   "manifest": "countries/JE.json",
+   "built_at": "2026-11-05T06:31:17Z",
+   "bytes": {
+    "90": 1728924,
+    "30": 10712
+   },
+   "tiles": {
+    "90": 4,
+    "30": 0
+   },
+   "peaks": 52,
+   "neighbours": [
+    "FR",
+    "GG"
    ]
   },
   {

@@ -1,0 +1,71 @@
+{
+ "format_version": 1,
+ "code": "IM",
+ "name": "Isle of Man",
+ "built_at": "2026-11-05T06:30:50Z",
+ "buffer_km": 50,
+ "bbox": [
+  -4.7902,
+  54.057,
+  -4.3119,
+  54.419
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N54W006",
+    "bytes": 227388,
+    "sha256": "46e242c1b14ea7f71a77806f27f0bc241fd852ed62b4e824e7c2f5fa760d510e"
+   },
+   {
+    "name": "N54W005",
+    "bytes": 216638,
+    "sha256": "8bfb41db358f335c03ac1dead613e5e042047a14d1fbffa584ba48f2ff1e0dad"
+   },
+   {
+    "name": "N54W004",
+    "bytes": 330666,
+    "sha256": "341bd7239829bc9e935444d98b08822e08b9a2945d4ac3cb912bf2748b9bda91"
+   },
+   {
+    "name": "N53W006",
+    "bytes": 1977,
+    "sha256": "0fce5572c87a4ef3a8aef0cfc296dfa0d892664d475bac79cdd01e082cfc1f37"
+   },
+   {
+    "name": "N53W005",
+    "bytes": 127634,
+    "sha256": "3b7db18050018c573b2e8c78327b61d1f3ef8ecfa7300c6da0151d88c9cdcbfb"
+   },
+   {
+    "name": "N53W004",
+    "bytes": 249851,
+    "sha256": "5851b80b057bb3d8bb5e8ad662fe84835bb2c041dc586adfc6ceb0dfe16b3155"
+   }
+  ],
+  "30": [
+   {
+    "name": "N53W005",
+    "bytes": 836620,
+    "sha256": "962a11f0329f766141cc3980be5a96d18318a95ca9bf546dcb50f1a915be45a8"
+   },
+   {
+    "name": "N53W004",
+    "bytes": 1704816,
+    "sha256": "5ccab60863fdfe253655b8d9bfdee02bf453e2e6fda3e82b68110cb72a2fb5de"
+   }
+  ]
+ },
+ "peaks": {
+  "path": "peaks/IM.202611050630.sqlite.deflate",
+  "bytes": 182170,
+  "uncompressed_bytes": 446464,
+  "sha256": "18b8c84c2aaeb6dabc77ef7d6771f32f64ab683c7811a63d11e1cf7bb1bff23c",
+  "count": 1536,
+  "schema_version": 1
+ },
+ "neighbours": [
+  "GB"
+ ]
+}
