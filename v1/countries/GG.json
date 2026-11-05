@@ -1,0 +1,57 @@
+{
+ "format_version": 1,
+ "code": "GG",
+ "name": "Guernsey",
+ "built_at": "2026-11-05T06:30:10Z",
+ "buffer_km": 50,
+ "bbox": [
+  -2.6735,
+  49.4116,
+  -2.1703,
+  49.7314
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N50W003",
+    "bytes": 236221,
+    "sha256": "503ef9dd9cbfe0a4279a52b3fd310765b897f77a26d1ea051f535a8fbb69c3f4"
+   },
+   {
+    "name": "N50W002",
+    "bytes": 206920,
+    "sha256": "5a5de00de269a6226e0cda74f6abc75f86437e4760043675d2b5115fe1f9cf9f"
+   },
+   {
+    "name": "N49W003",
+    "bytes": 38571,
+    "sha256": "4db03d5c9c1ca7f869cbcbdc1eb2049a9518acda62814818f73d807e54da3849"
+   },
+   {
+    "name": "N49W002",
+    "bytes": 382788,
+    "sha256": "d4871a731bf9e4b46e93a8ec28f6e652d7938d924ea84597734748cc91665eca"
+   },
+   {
+    "name": "N48W003",
+    "bytes": 580055,
+    "sha256": "17bbc0b2aa61d8a0012b07e622a4b052a6f5240c79c94947429ab750733764b6"
+   }
+  ],
+  "30": []
+ },
+ "peaks": {
+  "path": "peaks/GG.202611050630.sqlite.deflate",
+  "bytes": 46196,
+  "uncompressed_bytes": 147456,
+  "sha256": "8eabc76093c8f87cf791914aca2346035b47c7fdc1457cdf68868bd3a8759f8a",
+  "count": 370,
+  "schema_version": 1
+ },
+ "neighbours": [
+  "FR",
+  "GB",
+  "JE"
+ ]
+}

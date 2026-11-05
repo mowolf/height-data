@@ -1,6 +1,6 @@
 {
  "format_version": 1,
- "generated_at": "2026-11-05T06:29:32Z",
+ "generated_at": "2026-11-05T06:30:18Z",
  "attribution": [
   {
    "name": "Copernicus DEM",
@@ -484,6 +484,119 @@
    },
    "peaks": 208,
    "neighbours": []
+  },
+  {
+   "code": "FR",
+   "name": "France",
+   "bbox": [
+    -5.1328,
+    41.3659,
+    9.5596,
+    51.0875
+   ],
+   "manifest": "countries/FR.json",
+   "built_at": "2026-11-05T06:29:37Z",
+   "bytes": {
+    "90": 93643269,
+    "30": 304327551
+   },
+   "tiles": {
+    "90": 118,
+    "30": 48
+   },
+   "peaks": 55894,
+   "neighbours": [
+    "DE",
+    "LU",
+    "BE",
+    "ES",
+    "GB",
+    "IT",
+    "CH",
+    "NL",
+    "MC",
+    "AD",
+    "JE",
+    "GG"
+   ]
+  },
+  {
+   "code": "GB",
+   "name": "United Kingdom",
+   "bbox": [
+    -13.6913,
+    49.9096,
+    1.7712,
+    60.8479
+   ],
+   "manifest": "countries/GB.json",
+   "built_at": "2026-11-05T06:29:59Z",
+   "bytes": {
+    "90": 28533325,
+    "30": 28660018
+   },
+   "tiles": {
+    "90": 85,
+    "30": 8
+   },
+   "peaks": 21235,
+   "neighbours": [
+    "FR",
+    "BE",
+    "IE",
+    "IM"
+   ]
+  },
+  {
+   "code": "GG",
+   "name": "Guernsey",
+   "bbox": [
+    -2.6735,
+    49.4116,
+    -2.1703,
+    49.7314
+   ],
+   "manifest": "countries/GG.json",
+   "built_at": "2026-11-05T06:30:10Z",
+   "bytes": {
+    "90": 1490751,
+    "30": 46196
+   },
+   "tiles": {
+    "90": 5,
+    "30": 0
+   },
+   "peaks": 370,
+   "neighbours": [
+    "FR",
+    "GB",
+    "JE"
+   ]
+  },
+  {
+   "code": "GI",
+   "name": "Gibraltar",
+   "bbox": [
+    -5.3584,
+    36.1105,
+    -5.3388,
+    36.1411
+   ],
+   "manifest": "countries/GI.json",
+   "built_at": "2026-11-05T06:30:12Z",
+   "bytes": {
+    "90": 2647072,
+    "30": 16206657
+   },
+   "tiles": {
+    "90": 4,
+    "30": 4
+   },
+   "peaks": 1299,
+   "neighbours": [
+    "MA",
+    "ES"
+   ]
   },
   {
    "code": "NP",

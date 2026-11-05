@@ -1,0 +1,72 @@
+{
+ "format_version": 1,
+ "code": "GI",
+ "name": "Gibraltar",
+ "built_at": "2026-11-05T06:30:12Z",
+ "buffer_km": 50,
+ "bbox": [
+  -5.3584,
+  36.1105,
+  -5.3388,
+  36.1411
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N36W006",
+    "bytes": 908433,
+    "sha256": "6f44f073fa1f7858ee81455c1e03e3f93bdccc5ac45280281e0e464cf0f210ec"
+   },
+   {
+    "name": "N36W005",
+    "bytes": 475974,
+    "sha256": "20b704f7c14bbca8ea30659e3e98d8bf2cf68fca3cd85c82fde97a808e944436"
+   },
+   {
+    "name": "N35W006",
+    "bytes": 839796,
+    "sha256": "57dbab2f6e3fa70b0c38026ead57bdb5a37976f3ae1c45cae15b5d2d090cc9b6"
+   },
+   {
+    "name": "N35W005",
+    "bytes": 278527,
+    "sha256": "bafbe314c460203756bdc66fb36981471c55b1e78f197e7c73e7f66d692fca23"
+   }
+  ],
+  "30": [
+   {
+    "name": "N36W006",
+    "bytes": 5760159,
+    "sha256": "8b2a2e4dc829c9f881f8a4d0b9bdb358024b985fa1fd1a0a9b2e92a394ed6e31"
+   },
+   {
+    "name": "N36W005",
+    "bytes": 3126777,
+    "sha256": "053a876f5683f33d256ee8b1c84ff5f4329458a5cfd9832e7bbdfdc523e375f3"
+   },
+   {
+    "name": "N35W006",
+    "bytes": 5414809,
+    "sha256": "31dbb27130ff848f58c96073f39e20137326a7a9327b4fe862fd7cc0833a0d3b"
+   },
+   {
+    "name": "N35W005",
+    "bytes": 1760570,
+    "sha256": "5d03dfede3c589123799945aca2f589a67a514574f2447434ae3715f32d06a6c"
+   }
+  ]
+ },
+ "peaks": {
+  "path": "peaks/GI.202611050630.sqlite.deflate",
+  "bytes": 144342,
+  "uncompressed_bytes": 352256,
+  "sha256": "5e29353e7131ff96e122e06a795e9bb71dac78fa2daec180ef841b6298ee7197",
+  "count": 1299,
+  "schema_version": 1
+ },
+ "neighbours": [
+  "MA",
+  "ES"
+ ]
+}
