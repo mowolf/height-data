@@ -1,6 +1,6 @@
 {
  "format_version": 1,
- "generated_at": "2026-11-05T06:27:52Z",
+ "generated_at": "2026-11-05T06:28:44Z",
  "attribution": [
   {
    "name": "Copernicus DEM",
@@ -259,6 +259,124 @@
     "LT",
     "RU",
     "LV",
+    "PL"
+   ]
+  },
+  {
+   "code": "CH",
+   "name": "Switzerland",
+   "bbox": [
+    5.9548,
+    45.8207,
+    10.4666,
+    47.8012
+   ],
+   "manifest": "countries/CH.json",
+   "built_at": "2026-11-05T06:27:54Z",
+   "bytes": {
+    "90": 29046689,
+    "30": 164884666
+   },
+   "tiles": {
+    "90": 23,
+    "30": 21
+   },
+   "peaks": 33102,
+   "neighbours": [
+    "FR",
+    "DE",
+    "AT",
+    "IT",
+    "LI"
+   ]
+  },
+  {
+   "code": "CZ",
+   "name": "Czech Republic",
+   "bbox": [
+    12.0761,
+    48.5579,
+    18.8374,
+    51.04
+   ],
+   "manifest": "countries/CZ.json",
+   "built_at": "2026-11-05T06:28:04Z",
+   "bytes": {
+    "90": 28716035,
+    "30": 77783051
+   },
+   "tiles": {
+    "90": 30,
+    "30": 12
+   },
+   "peaks": 34283,
+   "neighbours": [
+    "DE",
+    "HU",
+    "SK",
+    "PL",
+    "AT"
+   ]
+  },
+  {
+   "code": "DE",
+   "name": "Germany",
+   "bbox": [
+    5.8525,
+    47.2711,
+    15.0221,
+    55.0653
+   ],
+   "manifest": "countries/DE.json",
+   "built_at": "2026-11-05T06:28:13Z",
+   "bytes": {
+    "90": 69379103,
+    "30": 163507857
+   },
+   "tiles": {
+    "90": 88,
+    "30": 22
+   },
+   "peaks": 70041,
+   "neighbours": [
+    "FR",
+    "CZ",
+    "SE",
+    "LU",
+    "BE",
+    "DK",
+    "PL",
+    "AT",
+    "IT",
+    "CH",
+    "NL",
+    "LI"
+   ]
+  },
+  {
+   "code": "DK",
+   "name": "Denmark",
+   "bbox": [
+    8.094,
+    54.5686,
+    15.1514,
+    57.7512
+   ],
+   "manifest": "countries/DK.json",
+   "built_at": "2026-11-05T06:28:33Z",
+   "bytes": {
+    "90": 8331135,
+    "30": 226166
+   },
+   "tiles": {
+    "90": 32,
+    "30": 0
+   },
+   "peaks": 2233,
+   "neighbours": [
+    "DE",
+    "NO",
+    "SE",
     "PL"
    ]
   },
