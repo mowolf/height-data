@@ -1,0 +1,87 @@
+{
+ "format_version": 1,
+ "code": "AD",
+ "name": "Andorra",
+ "built_at": "2026-11-05T06:25:10Z",
+ "buffer_km": 50,
+ "bbox": [
+  1.4065,
+  42.4287,
+  1.7651,
+  42.6494
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N43E001",
+    "bytes": 982882,
+    "sha256": "36e250ae51d0550c59a9b3f8e79660f2d3e02fde4ddc659f18b305f4dcb27dcb"
+   },
+   {
+    "name": "N43E002",
+    "bytes": 1093612,
+    "sha256": "8d62faadefbfaf3eecebed82e5b556e61aa54f262d13efb9320a35fd2d37a40d"
+   },
+   {
+    "name": "N42E000",
+    "bytes": 1231228,
+    "sha256": "0fde22e723bf474c1edd20b2dc51d615e198ab0742dc8d14a023604b7dda728a"
+   },
+   {
+    "name": "N42E001",
+    "bytes": 1228567,
+    "sha256": "abd511b091da78c70b9658d870809f50e789b1a7e93c57909b6c3d421ea20ea4"
+   },
+   {
+    "name": "N42E002",
+    "bytes": 1169518,
+    "sha256": "9ab3f1d170ab290802ca434820e9c9be8d5d111b0d0e5836597c9a38ca4650ef"
+   },
+   {
+    "name": "N41E001",
+    "bytes": 947890,
+    "sha256": "a858bf1a153450b48972c7ac2fb412f2efc4fd616d2b98b229d188a0177cb24e"
+   }
+  ],
+  "30": [
+   {
+    "name": "N43E002",
+    "bytes": 7124162,
+    "sha256": "d30d64fca2af555bcd9020ccc9b27277b011a0a9a67d3f5b83ce82376a579acb"
+   },
+   {
+    "name": "N42E000",
+    "bytes": 8121977,
+    "sha256": "d15e8d254f41d371bba7176701af12dd417467d58e3be65501b3d31f0f1edb10"
+   },
+   {
+    "name": "N42E001",
+    "bytes": 8071677,
+    "sha256": "0add3bb6b5288bbc25ebc1661af19cef02f2908039d178ffc32fd6cb0e682d88"
+   },
+   {
+    "name": "N42E002",
+    "bytes": 7544413,
+    "sha256": "9c88274b93b58d777e940ebe3784e6b22351b4764445e8ec9785ce484479a37c"
+   },
+   {
+    "name": "N41E001",
+    "bytes": 6115768,
+    "sha256": "5c301cbeaec9b0edbf95d0d87fe750c71069f49b9d0dcfce705406ba7246e578"
+   }
+  ]
+ },
+ "peaks": {
+  "path": "peaks/AD.202611050625.sqlite.deflate",
+  "bytes": 1219606,
+  "uncompressed_bytes": 2908160,
+  "sha256": "801664b8ac080dd96eaa59320e3af8ca1df468b0cd0557c869728a73736f7a99",
+  "count": 10399,
+  "schema_version": 1
+ },
+ "neighbours": [
+  "FR",
+  "ES"
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "format_version": 1,
+ "code": "AX",
+ "name": "Åland",
+ "built_at": "2026-11-05T06:25:48Z",
+ "buffer_km": 50,
+ "bbox": [
+  19.5132,
+  59.9045,
+  21.0967,
+  60.4808
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N60E018",
+    "bytes": 168892,
+    "sha256": "87956d380ed2fdb75a58d39a07b9d89583e573ae9fb589b36dc8f957d51f47b5"
+   },
+   {
+    "name": "N60E019",
+    "bytes": 75589,
+    "sha256": "34f18e09e13e6cdef153f0cb14f4cd0cd397d0b9b10f2ea6cab1d1fba8962753"
+   },
+   {
+    "name": "N60E020",
+    "bytes": 112099,
+    "sha256": "be413d4f377de9b3202fd5d1d60e8bcbff3505b54955424bbd6a9401e7d809e0"
+   },
+   {
+    "name": "N60E021",
+    "bytes": 326078,
+    "sha256": "194f4997234c1b250e8971a2978a61f212d2642212ee7f3bb51f7ab9ed997fc8"
+   },
+   {
+    "name": "N60E022",
+    "bytes": 468432,
+    "sha256": "da4ca132c6ad5da1c69cbbe8340c46bbe8df516a1d6065fd3c9812a003a50356"
+   },
+   {
+    "name": "N59E018",
+    "bytes": 544358,
+    "sha256": "de809e5d1d28e2fbe9c388ac0edffde061329540a19e7fca6d5cf57e45e92abf"
+   },
+   {
+    "name": "N59E019",
+    "bytes": 36773,
+    "sha256": "d52ddbea257ad3ea459b07a36ea0ca71cb967708ece8d865c6ac13b1bdcbfa4b"
+   },
+   {
+    "name": "N59E020",
+    "bytes": 23132,
+    "sha256": "7e54603c2c53d64fbcbaa2dfe4dbe6ebfdc5a31e24ef84d1bd90e0905dfe87f3"
+   },
+   {
+    "name": "N59E021",
+    "bytes": 25193,
+    "sha256": "c095aafc59ffc0987a32086823ff6e10dde2b44be8c6ff6b85bc884d43d7cc98"
+   }
+  ],
+  "30": []
+ },
+ "peaks": {
+  "path": "peaks/AX.202611050625.sqlite.deflate",
+  "bytes": 88322,
+  "uncompressed_bytes": 245760,
+  "sha256": "f28fdc35bdf0cae2877e5e527170cad6a28ff0c5c555d8dcd525a6d4b09ded48",
+  "count": 762,
+  "schema_version": 1
+ },
+ "neighbours": [
+  "SE",
+  "FI"
+ ]
+}
