@@ -1,0 +1,77 @@
+{
+ "format_version": 1,
+ "code": "MC",
+ "name": "Monaco",
+ "built_at": "2026-11-05T06:31:48Z",
+ "buffer_km": 50,
+ "bbox": [
+  7.3658,
+  43.718,
+  7.4375,
+  43.7635
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N44E006",
+    "bytes": 1248378,
+    "sha256": "7cfedf75d0e01d5d6ef1d9f449e002d2eb50db005a7f1e9c1b5582cb5d639da7"
+   },
+   {
+    "name": "N44E007",
+    "bytes": 1102972,
+    "sha256": "d642c2d9a32e54298e7784efa480c62af678dfdda493fc1a7f38a0adf4d6e0c0"
+   },
+   {
+    "name": "N43E006",
+    "bytes": 892242,
+    "sha256": "01e0d8f6970c3709695728a15145bdc4d99a8e3d921719e7df63c5e25833d5c8"
+   },
+   {
+    "name": "N43E007",
+    "bytes": 344073,
+    "sha256": "2183814ccdae94f35494825d7d56cdf70ac811bf62bfbc191a168abf676db044"
+   },
+   {
+    "name": "N43E008",
+    "bytes": 26693,
+    "sha256": "50578b0864e2610929ffd9e5afdd025504146ba39205f188884b78ad78953123"
+   }
+  ],
+  "30": [
+   {
+    "name": "N44E006",
+    "bytes": 8363554,
+    "sha256": "640ab7a16dfefbf71d11f6112dc9674e1c8f7cfa5a17275bc7803125119f2eab"
+   },
+   {
+    "name": "N44E007",
+    "bytes": 7580392,
+    "sha256": "33421d4d11cd931c5c69bd256fbde4c8ba10bf17d6fcf0b726dfe6ef69f984ae"
+   },
+   {
+    "name": "N43E006",
+    "bytes": 5793243,
+    "sha256": "01d32553bb69597cb2c43b70a6e2af7ecd27d436ca1a90567f544fc15c851f1c"
+   },
+   {
+    "name": "N43E007",
+    "bytes": 2294280,
+    "sha256": "2c534f1a3476130841a58c60b905ca332fe784a40bdad7e68f497443db2aaa71"
+   }
+  ]
+ },
+ "peaks": {
+  "path": "peaks/MC.202611050631.sqlite.deflate",
+  "bytes": 523404,
+  "uncompressed_bytes": 1204224,
+  "sha256": "de177bff387b6ae1ef42571bb2c729dd74222d9539377146e6ce2dd6acb529e1",
+  "count": 4715,
+  "schema_version": 1
+ },
+ "neighbours": [
+  "FR",
+  "IT"
+ ]
+}

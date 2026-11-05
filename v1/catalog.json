@@ -1,6 +1,6 @@
 {
  "format_version": 1,
- "generated_at": "2026-11-05T06:31:45Z",
+ "generated_at": "2026-11-05T06:32:03Z",
  "attribution": [
   {
    "name": "Copernicus DEM",
@@ -929,6 +929,114 @@
     "LT",
     "RU",
     "EE"
+   ]
+  },
+  {
+   "code": "MC",
+   "name": "Monaco",
+   "bbox": [
+    7.3658,
+    43.718,
+    7.4375,
+    43.7635
+   ],
+   "manifest": "countries/MC.json",
+   "built_at": "2026-11-05T06:31:48Z",
+   "bytes": {
+    "90": 4137762,
+    "30": 24554873
+   },
+   "tiles": {
+    "90": 5,
+    "30": 4
+   },
+   "peaks": 4715,
+   "neighbours": [
+    "FR",
+    "IT"
+   ]
+  },
+  {
+   "code": "MD",
+   "name": "Moldova",
+   "bbox": [
+    26.6179,
+    45.4618,
+    30.1316,
+    48.486
+   ],
+   "manifest": "countries/MD.json",
+   "built_at": "2026-11-05T06:31:51Z",
+   "bytes": {
+    "90": 13069882,
+    "30": 12448938
+   },
+   "tiles": {
+    "90": 18,
+    "30": 2
+   },
+   "peaks": 188,
+   "neighbours": [
+    "UA",
+    "RO"
+   ]
+  },
+  {
+   "code": "ME",
+   "name": "Montenegro",
+   "bbox": [
+    18.4335,
+    41.8524,
+    20.3552,
+    43.5479
+   ],
+   "manifest": "countries/ME.json",
+   "built_at": "2026-11-05T06:31:54Z",
+   "bytes": {
+    "90": 9021828,
+    "30": 54858743
+   },
+   "tiles": {
+    "90": 9,
+    "30": 8
+   },
+   "peaks": 7775,
+   "neighbours": [
+    "MK",
+    "AL",
+    "XK",
+    "RS",
+    "HR",
+    "BA"
+   ]
+  },
+  {
+   "code": "MK",
+   "name": "North Macedonia",
+   "bbox": [
+    20.4442,
+    40.8494,
+    23.0096,
+    42.3703
+   ],
+   "manifest": "countries/MK.json",
+   "built_at": "2026-11-05T06:31:56Z",
+   "bytes": {
+    "90": 16005030,
+    "30": 101121727
+   },
+   "tiles": {
+    "90": 15,
+    "30": 15
+   },
+   "peaks": 7789,
+   "neighbours": [
+    "AL",
+    "XK",
+    "GR",
+    "RS",
+    "BG",
+    "ME"
    ]
   },
   {
