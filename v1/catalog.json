@@ -1,6 +1,6 @@
 {
  "format_version": 1,
- "generated_at": "2026-11-05T06:26:29Z",
+ "generated_at": "2026-11-05T06:27:52Z",
  "attribution": [
   {
    "name": "Copernicus DEM",
@@ -145,6 +145,121 @@
    "neighbours": [
     "SE",
     "FI"
+   ]
+  },
+  {
+   "code": "BA",
+   "name": "Bosnia and Herzegovina",
+   "bbox": [
+    15.7161,
+    42.5592,
+    19.6189,
+    45.2845
+   ],
+   "manifest": "countries/BA.json",
+   "built_at": "2026-11-05T06:26:37Z",
+   "bytes": {
+    "90": 19336627,
+    "30": 98728536
+   },
+   "tiles": {
+    "90": 21,
+    "30": 14
+   },
+   "peaks": 11224,
+   "neighbours": [
+    "AL",
+    "XK",
+    "HU",
+    "RS",
+    "HR",
+    "SI",
+    "ME"
+   ]
+  },
+  {
+   "code": "BE",
+   "name": "Belgium",
+   "bbox": [
+    2.5218,
+    49.4952,
+    6.3745,
+    51.4962
+   ],
+   "manifest": "countries/BE.json",
+   "built_at": "2026-11-05T06:26:40Z",
+   "bytes": {
+    "90": 10424224,
+    "30": 5400969
+   },
+   "tiles": {
+    "90": 17,
+    "30": 1
+   },
+   "peaks": 3764,
+   "neighbours": [
+    "FR",
+    "DE",
+    "LU",
+    "GB",
+    "NL"
+   ]
+  },
+  {
+   "code": "BG",
+   "name": "Bulgaria",
+   "bbox": [
+    22.345,
+    41.2381,
+    28.6035,
+    44.2284
+   ],
+   "manifest": "countries/BG.json",
+   "built_at": "2026-11-05T06:26:49Z",
+   "bytes": {
+    "90": 31281285,
+    "30": 137681888
+   },
+   "tiles": {
+    "90": 38,
+    "30": 22
+   },
+   "peaks": 7660,
+   "neighbours": [
+    "MK",
+    "XK",
+    "TR",
+    "RO",
+    "GR",
+    "RS"
+   ]
+  },
+  {
+   "code": "BY",
+   "name": "Belarus",
+   "bbox": [
+    23.1656,
+    51.2352,
+    32.7195,
+    56.1568
+   ],
+   "manifest": "countries/BY.json",
+   "built_at": "2026-11-05T06:27:38Z",
+   "bytes": {
+    "90": 38749386,
+    "30": 41778
+   },
+   "tiles": {
+    "90": 64,
+    "30": 0
+   },
+   "peaks": 292,
+   "neighbours": [
+    "UA",
+    "LT",
+    "RU",
+    "LV",
+    "PL"
    ]
   },
   {
