@@ -1,6 +1,6 @@
 {
  "format_version": 1,
- "generated_at": "2026-11-05T06:31:22Z",
+ "generated_at": "2026-11-05T06:31:45Z",
  "attribution": [
   {
    "name": "Copernicus DEM",
@@ -821,6 +821,114 @@
    "neighbours": [
     "FR",
     "GG"
+   ]
+  },
+  {
+   "code": "LI",
+   "name": "Liechtenstein",
+   "bbox": [
+    9.4759,
+    47.0524,
+    9.6157,
+    47.2628
+   ],
+   "manifest": "countries/LI.json",
+   "built_at": "2026-11-05T06:31:26Z",
+   "bytes": {
+    "90": 8660838,
+    "30": 49822111
+   },
+   "tiles": {
+    "90": 6,
+    "30": 6
+   },
+   "peaks": 13456,
+   "neighbours": [
+    "DE",
+    "AT",
+    "IT",
+    "CH"
+   ]
+  },
+  {
+   "code": "LT",
+   "name": "Lithuania",
+   "bbox": [
+    20.9246,
+    53.8868,
+    26.8007,
+    56.4426
+   ],
+   "manifest": "countries/LT.json",
+   "built_at": "2026-11-05T06:31:32Z",
+   "bytes": {
+    "90": 16531149,
+    "30": 19687
+   },
+   "tiles": {
+    "90": 29,
+    "30": 0
+   },
+   "peaks": 125,
+   "neighbours": [
+    "BY",
+    "RU",
+    "LV",
+    "PL"
+   ]
+  },
+  {
+   "code": "LU",
+   "name": "Luxembourg",
+   "bbox": [
+    5.7149,
+    49.4413,
+    6.5026,
+    50.175
+   ],
+   "manifest": "countries/LU.json",
+   "built_at": "2026-11-05T06:31:35Z",
+   "bytes": {
+    "90": 7720322,
+    "30": 12379186
+   },
+   "tiles": {
+    "90": 8,
+    "30": 2
+   },
+   "peaks": 4810,
+   "neighbours": [
+    "FR",
+    "DE",
+    "BE",
+    "NL"
+   ]
+  },
+  {
+   "code": "LV",
+   "name": "Latvia",
+   "bbox": [
+    20.9686,
+    55.667,
+    28.2173,
+    58.0751
+   ],
+   "manifest": "countries/LV.json",
+   "built_at": "2026-11-05T06:31:39Z",
+   "bytes": {
+    "90": 17086379,
+    "30": 2286
+   },
+   "tiles": {
+    "90": 34,
+    "30": 0
+   },
+   "peaks": 5,
+   "neighbours": [
+    "BY",
+    "LT",
+    "RU",
+    "EE"
    ]
   },
   {

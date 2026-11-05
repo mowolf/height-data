@@ -1,0 +1,178 @@
+{
+ "format_version": 1,
+ "code": "LT",
+ "name": "Lithuania",
+ "built_at": "2026-11-05T06:31:32Z",
+ "buffer_km": 50,
+ "bbox": [
+  20.9246,
+  53.8868,
+  26.8007,
+  56.4426
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N56E020",
+    "bytes": 7962,
+    "sha256": "df1021e46deff4efea62bedbf6dd983b02f2b837a5751dffd252d76a4c9ca680"
+   },
+   {
+    "name": "N56E021",
+    "bytes": 603964,
+    "sha256": "9931c9f8aa287f177ba515895b38ed736569daeea1872379aad2a6599f64b33c"
+   },
+   {
+    "name": "N56E022",
+    "bytes": 634107,
+    "sha256": "8851251d18904d281017fad0329802ba0ca221b965c5fe0dfbb9abc769e46935"
+   },
+   {
+    "name": "N56E023",
+    "bytes": 547911,
+    "sha256": "f44779cd2e1fa881103fa9a22d7a4d94fa4451bc30606580ece3c54add2cd42c"
+   },
+   {
+    "name": "N56E024",
+    "bytes": 611711,
+    "sha256": "653bbcd285a6bcd09bcd415fa775e4238cf16107d5592ab03fe7444f9053be04"
+   },
+   {
+    "name": "N56E025",
+    "bytes": 681418,
+    "sha256": "0b0b0393e0328f478f72c4b365ce3069158c267f899513dbdc43f6c7ab890b1b"
+   },
+   {
+    "name": "N56E026",
+    "bytes": 628666,
+    "sha256": "f05de702ed46660cfed15e414413ff2806d60cacd889a2345477cdbd8b495aba"
+   },
+   {
+    "name": "N56E027",
+    "bytes": 637168,
+    "sha256": "9464f630e903788c3fc3aea9643373f04c3bff375603c516e602e0acf4dd27ff"
+   },
+   {
+    "name": "N55E020",
+    "bytes": 12825,
+    "sha256": "f79905e05377809d805847e183ea70c1e54640103cc0ce42a9d357a96d1e2f02"
+   },
+   {
+    "name": "N55E021",
+    "bytes": 493751,
+    "sha256": "df15108a05a123891a7d6c7908659e8bcd773a44c3726392b3e024b0b9b958bd"
+   },
+   {
+    "name": "N55E022",
+    "bytes": 626415,
+    "sha256": "2a97253fcddef3b9fc6d40b6ca103b70a3ce06d16bf32d722480d43efdebf179"
+   },
+   {
+    "name": "N55E023",
+    "bytes": 567115,
+    "sha256": "6eaf6832f6ea1b2de8115643b16398c81d7a3b859784f6cb1a7367b8649a4bea"
+   },
+   {
+    "name": "N55E024",
+    "bytes": 582926,
+    "sha256": "6005f41ad81d3bba8af1e98362ebc2aa1db172775b9733f9bcf726d531d81655"
+   },
+   {
+    "name": "N55E025",
+    "bytes": 674741,
+    "sha256": "6bbae5abbdd26de20cc7fa078a16dddc6f100f9cf5fb7f31f42bbbddfe08c52f"
+   },
+   {
+    "name": "N55E026",
+    "bytes": 655482,
+    "sha256": "e43563f9161c66980135fff26c6171f0e3ca222154e6d613927b908155cf36da"
+   },
+   {
+    "name": "N55E027",
+    "bytes": 592525,
+    "sha256": "907ce077cab4919fe966f3959c97bd2d66649c9ea2b09ed0d44413ba84df2d4e"
+   },
+   {
+    "name": "N54E020",
+    "bytes": 531848,
+    "sha256": "2bbc70c8f7653203cf7b00f57c9f3bc28038de802cec5a866ac45ff7e5008a88"
+   },
+   {
+    "name": "N54E021",
+    "bytes": 572516,
+    "sha256": "cb5d18f13ffa9d5c2ea2d992272eab7b6eb4b16475b38349ed635479ecb9ca2a"
+   },
+   {
+    "name": "N54E022",
+    "bytes": 593638,
+    "sha256": "59da96841b996ff83ca3c6baaa9b64a64380cf45b780bafe1749a8425ae6aca9"
+   },
+   {
+    "name": "N54E023",
+    "bytes": 613894,
+    "sha256": "1f851047114c31d1ed229d396ec86c00e84df5e5dbd935729ef7ef2b59597472"
+   },
+   {
+    "name": "N54E024",
+    "bytes": 669791,
+    "sha256": "e4dade5632df5de9e4eddb5bc318de912629b50411e9423415e0deca9b28cfb0"
+   },
+   {
+    "name": "N54E025",
+    "bytes": 661364,
+    "sha256": "fea7bab133360a4ea247c9b48d7066715bc5f28784d5e8ff30f57ab3e78f470b"
+   },
+   {
+    "name": "N54E026",
+    "bytes": 624611,
+    "sha256": "9a0fbfa679fa43c50b2dbc2553942816ebfedbfcd9238f6fc6d036c3b77d98c9"
+   },
+   {
+    "name": "N54E027",
+    "bytes": 636256,
+    "sha256": "d0fdb53492757f738351bad8248254f3b3e4bad84a3fc0baa4bcddf7b912abc8"
+   },
+   {
+    "name": "N53E022",
+    "bytes": 596079,
+    "sha256": "e1706d64a23be3b5bfe80871c136009fb7542f667db6e2d95dc90e040bd3d0f4"
+   },
+   {
+    "name": "N53E023",
+    "bytes": 647447,
+    "sha256": "3e5a4d7b8731a58a8d503b0dd876a788a9dd3f2d11e5738a1f60efecb208026a"
+   },
+   {
+    "name": "N53E024",
+    "bytes": 587286,
+    "sha256": "39e603d55f9b3f4dfbdb28b893065d7833e32598029868b39f7f58adf402dee9"
+   },
+   {
+    "name": "N53E025",
+    "bytes": 628594,
+    "sha256": "cfe2ce942f944e5d07ee7b8303e56a486bfe08a03cd425982a216d99f5edd76a"
+   },
+   {
+    "name": "N53E026",
+    "bytes": 589451,
+    "sha256": "b213f8663b97936b2bc359059c68e5e8d73e957e47bb46552df777bd26c0c764"
+   }
+  ],
+  "30": []
+ },
+ "peaks": {
+  "path": "peaks/LT.202611050631.sqlite.deflate",
+  "bytes": 19687,
+  "uncompressed_bytes": 81920,
+  "sha256": "bcf701d4cea6d2efd4737ce686a559d6bdcf9181c6558e088b42ab2106e72f5a",
+  "count": 125,
+  "schema_version": 1
+ },
+ "neighbours": [
+  "BY",
+  "RU",
+  "LV",
+  "PL"
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "format_version": 1,
+ "code": "LU",
+ "name": "Luxembourg",
+ "built_at": "2026-11-05T06:31:35Z",
+ "buffer_km": 50,
+ "bbox": [
+  5.7149,
+  49.4413,
+  6.5026,
+  50.175
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N50E005",
+    "bytes": 685513,
+    "sha256": "3223c895c8c09d357b8b08ad9a54e7dd59e23b5c71e88405dc2b6c2f608b6c32"
+   },
+   {
+    "name": "N50E006",
+    "bytes": 704142,
+    "sha256": "90725fcf9d791378e958ce105aeb9c40d3662dfe0453cdd344d23e0064155ae9"
+   },
+   {
+    "name": "N50E007",
+    "bytes": 766319,
+    "sha256": "155290befbee123c62da542282c7a1b6488db7e7cc8dd640f4f7d9b036a97980"
+   },
+   {
+    "name": "N49E005",
+    "bytes": 984544,
+    "sha256": "c712517e522edca3ae6a685840188b8e8a8d631c772590c4b52d90255e9d1bf2"
+   },
+   {
+    "name": "N49E006",
+    "bytes": 1025500,
+    "sha256": "cb006b947788972f50ea2805c3c76b41e29ea8371a065b94af7b195679ade16b"
+   },
+   {
+    "name": "N49E007",
+    "bytes": 1089358,
+    "sha256": "e9e6a9595022213cf03b2de61bdad9b12fa5ac1baea91c25579c1fb290ad537b"
+   },
+   {
+    "name": "N48E005",
+    "bytes": 965506,
+    "sha256": "9769a6db9f1572c788ba5c912dbad530a189621e19142ec3f19d3ad4a5a1a533"
+   },
+   {
+    "name": "N48E006",
+    "bytes": 984690,
+    "sha256": "c92c86c18210748fcba32260ed8682356c52e134327ba65b3f684672a1a64564"
+   }
+  ],
+  "30": [
+   {
+    "name": "N50E006",
+    "bytes": 5003003,
+    "sha256": "5bc827d6a99c58f4e2e56bb724391255fd26e8af44920366900ef179524cc4b7"
+   },
+   {
+    "name": "N48E006",
+    "bytes": 6861433,
+    "sha256": "1647ee8b988488e8ae3a2c9450c641f8221de13f79bea64e4052462b0d77fade"
+   }
+  ]
+ },
+ "peaks": {
+  "path": "peaks/LU.202611050631.sqlite.deflate",
+  "bytes": 514750,
+  "uncompressed_bytes": 1196032,
+  "sha256": "06d246417d29e2e908463bdca32a3068ecda2a4d99e9911374c477650c1745e1",
+  "count": 4810,
+  "schema_version": 1
+ },
+ "neighbours": [
+  "FR",
+  "DE",
+  "BE",
+  "NL"
+ ]
+}

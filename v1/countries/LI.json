@@ -1,0 +1,94 @@
+{
+ "format_version": 1,
+ "code": "LI",
+ "name": "Liechtenstein",
+ "built_at": "2026-11-05T06:31:26Z",
+ "buffer_km": 50,
+ "bbox": [
+  9.4759,
+  47.0524,
+  9.6157,
+  47.2628
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N47E008",
+    "bytes": 1077872,
+    "sha256": "e73af7ba571a592d7ed4a439a69a091ee718f8c8c003ec6f1d509566734e9b27"
+   },
+   {
+    "name": "N47E009",
+    "bytes": 1055978,
+    "sha256": "a8f0daa1fc7741e907d83e0d11524f76acbc2b6a723c4a6beb9e709645cc4037"
+   },
+   {
+    "name": "N47E010",
+    "bytes": 1160647,
+    "sha256": "0b2981e5191b24959b1beb40d6bf8989d19b34a6e41fb1adfdc23c36cc297971"
+   },
+   {
+    "name": "N46E008",
+    "bytes": 1245853,
+    "sha256": "686cd8ceb5ce5b2b4b935286f6bc63889b0d9abd6a80ea6cf818763fe5ae76aa"
+   },
+   {
+    "name": "N46E009",
+    "bytes": 1242863,
+    "sha256": "382eb21f6407ed384655e66458fc2a159ba542621ecabb3d09bffecf0ada4aec"
+   },
+   {
+    "name": "N46E010",
+    "bytes": 1248285,
+    "sha256": "47c9db2d04d01306702e5c4c507460b47adfa41625418e1e15d5c202834b2e65"
+   }
+  ],
+  "30": [
+   {
+    "name": "N47E008",
+    "bytes": 7516205,
+    "sha256": "bd4af2e9fe7d68d07a02c13c7d5f3a08c174f36face7427ce34811c7e5679b3b"
+   },
+   {
+    "name": "N47E009",
+    "bytes": 7398041,
+    "sha256": "9a85e2d45e6dc7bfd8596f5df289389cfd5e76c907f2e5c5976c62e9e2f500ea"
+   },
+   {
+    "name": "N47E010",
+    "bytes": 8018357,
+    "sha256": "f0d4cabea3b69f5fc8e6ca36cfe54c9947cf945adf75d21acff3ba45e7e20d5b"
+   },
+   {
+    "name": "N46E008",
+    "bytes": 8403232,
+    "sha256": "14c33ee5e9cf46fb51d0eeae3e5f1b2e536aca4c1ff6b2bfbb83c6871b7ef716"
+   },
+   {
+    "name": "N46E009",
+    "bytes": 8464735,
+    "sha256": "7fd796e25272b2aa283bf228f0d0271af6fc9bc4ded0d3ddb2dca0187792894c"
+   },
+   {
+    "name": "N46E010",
+    "bytes": 8392201,
+    "sha256": "1b2f39db0c175ecbd3d66042ccc6054db241f39222914c69c60785f367ef830a"
+   }
+  ]
+ },
+ "peaks": {
+  "path": "peaks/LI.202611050631.sqlite.deflate",
+  "bytes": 1629340,
+  "uncompressed_bytes": 3780608,
+  "sha256": "684e3c1c8d647aaf914671977ad429f13f66802604b63a17c6524b62a462ad26",
+  "count": 13456,
+  "schema_version": 1
+ },
+ "neighbours": [
+  "DE",
+  "AT",
+  "IT",
+  "CH"
+ ]
+}

@@ -1,0 +1,203 @@
+{
+ "format_version": 1,
+ "code": "LV",
+ "name": "Latvia",
+ "built_at": "2026-11-05T06:31:39Z",
+ "buffer_km": 50,
+ "bbox": [
+  20.9686,
+  55.667,
+  28.2173,
+  58.0751
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N58E021",
+    "bytes": 25237,
+    "sha256": "22d68a60f9bdfd7b62386450fdba2e0fe5d90c5ffc17e799bc1a7418b6b22522"
+   },
+   {
+    "name": "N58E022",
+    "bytes": 333856,
+    "sha256": "c55687066a432b51403e8ca0d2894e0c6c77761f7703716acf94c69c981d0d1c"
+   },
+   {
+    "name": "N58E023",
+    "bytes": 241765,
+    "sha256": "92e37b301d4e13e6a1cfa72034b4a1f3fd2ef58769ae6a96ff09301224be34ff"
+   },
+   {
+    "name": "N58E024",
+    "bytes": 519030,
+    "sha256": "55e1605b9892d78187d2739e1a17bff0bc16f3717e982143157af8d3abb743fc"
+   },
+   {
+    "name": "N58E025",
+    "bytes": 639156,
+    "sha256": "46211bbc359d97b67960e0eb4c8bdba59178ba1efb113d38af8bda3adba7fc18"
+   },
+   {
+    "name": "N58E026",
+    "bytes": 614801,
+    "sha256": "6f3e013ac5aa972d8fa67d5913da66d72f8f15fe07f4084669759d16056910de"
+   },
+   {
+    "name": "N58E027",
+    "bytes": 342663,
+    "sha256": "be677f855e15258eff6f977e63829df4f566ae02ee13f1060b9b97140351f96c"
+   },
+   {
+    "name": "N57E021",
+    "bytes": 212789,
+    "sha256": "e08ad22806b56456da646f53c50fcb957893adede63199ded7079f4ee5177b40"
+   },
+   {
+    "name": "N57E022",
+    "bytes": 430257,
+    "sha256": "09793cf57b05079cf65a6b42d36229e8f56f568b5dfd5853da05825110bb2312"
+   },
+   {
+    "name": "N57E023",
+    "bytes": 74915,
+    "sha256": "84a8f90765a7f3e032c03334dfdad68b43a5a194a78e71796a03c384353dd7df"
+   },
+   {
+    "name": "N57E024",
+    "bytes": 474014,
+    "sha256": "3c0b34f4f76285d18e9898f8f11770a1fe72dca63c31360f9ae467185b98c6c1"
+   },
+   {
+    "name": "N57E025",
+    "bytes": 685537,
+    "sha256": "74f885c48ab81704dfc471f977b58f1f106c6a561ee8df5862140c5ce9f516ac"
+   },
+   {
+    "name": "N57E026",
+    "bytes": 688182,
+    "sha256": "d4fac7b08536e8640ab1e9c2e6f4b8bc8c72147ba3a1a8df2649141709317a0e"
+   },
+   {
+    "name": "N57E027",
+    "bytes": 650980,
+    "sha256": "2c455d9ef3f14ce6e78e11cfa02a094d59654ab66676541ee4576b69a8d7886f"
+   },
+   {
+    "name": "N57E028",
+    "bytes": 594542,
+    "sha256": "a3950c24710b8692fb8f470abe1daa0f3b3add57854486fe84758f03482db43e"
+   },
+   {
+    "name": "N56E020",
+    "bytes": 7962,
+    "sha256": "df1021e46deff4efea62bedbf6dd983b02f2b837a5751dffd252d76a4c9ca680"
+   },
+   {
+    "name": "N56E021",
+    "bytes": 603964,
+    "sha256": "9931c9f8aa287f177ba515895b38ed736569daeea1872379aad2a6599f64b33c"
+   },
+   {
+    "name": "N56E022",
+    "bytes": 634107,
+    "sha256": "8851251d18904d281017fad0329802ba0ca221b965c5fe0dfbb9abc769e46935"
+   },
+   {
+    "name": "N56E023",
+    "bytes": 547911,
+    "sha256": "f44779cd2e1fa881103fa9a22d7a4d94fa4451bc30606580ece3c54add2cd42c"
+   },
+   {
+    "name": "N56E024",
+    "bytes": 611711,
+    "sha256": "653bbcd285a6bcd09bcd415fa775e4238cf16107d5592ab03fe7444f9053be04"
+   },
+   {
+    "name": "N56E025",
+    "bytes": 681418,
+    "sha256": "0b0b0393e0328f478f72c4b365ce3069158c267f899513dbdc43f6c7ab890b1b"
+   },
+   {
+    "name": "N56E026",
+    "bytes": 628666,
+    "sha256": "f05de702ed46660cfed15e414413ff2806d60cacd889a2345477cdbd8b495aba"
+   },
+   {
+    "name": "N56E027",
+    "bytes": 637168,
+    "sha256": "9464f630e903788c3fc3aea9643373f04c3bff375603c516e602e0acf4dd27ff"
+   },
+   {
+    "name": "N56E028",
+    "bytes": 661887,
+    "sha256": "083e165d6391fb15114e40c4ec12b47476eb56eb2abd4e7deeb3333a3b002ddc"
+   },
+   {
+    "name": "N56E029",
+    "bytes": 684404,
+    "sha256": "93836890ef87b6e19bd8018d25ebb1c32461e4a5f93939520493122e032b87bd"
+   },
+   {
+    "name": "N55E020",
+    "bytes": 12825,
+    "sha256": "f79905e05377809d805847e183ea70c1e54640103cc0ce42a9d357a96d1e2f02"
+   },
+   {
+    "name": "N55E021",
+    "bytes": 493751,
+    "sha256": "df15108a05a123891a7d6c7908659e8bcd773a44c3726392b3e024b0b9b958bd"
+   },
+   {
+    "name": "N55E022",
+    "bytes": 626415,
+    "sha256": "2a97253fcddef3b9fc6d40b6ca103b70a3ce06d16bf32d722480d43efdebf179"
+   },
+   {
+    "name": "N55E023",
+    "bytes": 567115,
+    "sha256": "6eaf6832f6ea1b2de8115643b16398c81d7a3b859784f6cb1a7367b8649a4bea"
+   },
+   {
+    "name": "N55E024",
+    "bytes": 582926,
+    "sha256": "6005f41ad81d3bba8af1e98362ebc2aa1db172775b9733f9bcf726d531d81655"
+   },
+   {
+    "name": "N55E025",
+    "bytes": 674741,
+    "sha256": "6bbae5abbdd26de20cc7fa078a16dddc6f100f9cf5fb7f31f42bbbddfe08c52f"
+   },
+   {
+    "name": "N55E026",
+    "bytes": 655482,
+    "sha256": "e43563f9161c66980135fff26c6171f0e3ca222154e6d613927b908155cf36da"
+   },
+   {
+    "name": "N55E027",
+    "bytes": 592525,
+    "sha256": "907ce077cab4919fe966f3959c97bd2d66649c9ea2b09ed0d44413ba84df2d4e"
+   },
+   {
+    "name": "N55E028",
+    "bytes": 651391,
+    "sha256": "5ab1f28cbd0989b4bc2244f025b5915cbe454c69663cd97c000567cfe34f2712"
+   }
+  ],
+  "30": []
+ },
+ "peaks": {
+  "path": "peaks/LV.202611050631.sqlite.deflate",
+  "bytes": 2286,
+  "uncompressed_bytes": 57344,
+  "sha256": "47eb70dbb2d6dd7d3fa173ee06be457bb0f6f7b7454c075d456e0a042844cd39",
+  "count": 5,
+  "schema_version": 1
+ },
+ "neighbours": [
+  "BY",
+  "LT",
+  "RU",
+  "EE"
+ ]
+}
