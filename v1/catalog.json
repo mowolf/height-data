@@ -1,6 +1,6 @@
 {
  "format_version": 1,
- "generated_at": "2026-11-05T06:32:45Z",
+ "generated_at": "2026-11-05T06:33:26Z",
  "attribution": [
   {
    "name": "Copernicus DEM",
@@ -1171,6 +1171,123 @@
     "HU",
     "SK",
     "AT"
+   ]
+  },
+  {
+   "code": "PT",
+   "name": "Portugal",
+   "bbox": [
+    -31.2849,
+    36.9343,
+    -6.2059,
+    42.1536
+   ],
+   "manifest": "countries/PT.json",
+   "built_at": "2026-11-05T06:32:50Z",
+   "bytes": {
+    "90": 21339636,
+    "30": 82738996
+   },
+   "tiles": {
+    "90": 34,
+    "30": 15
+   },
+   "peaks": 7816,
+   "neighbours": [
+    "ES"
+   ]
+  },
+  {
+   "code": "RO",
+   "name": "Romania",
+   "bbox": [
+    20.2428,
+    43.65,
+    29.6996,
+    48.2748
+   ],
+   "manifest": "countries/RO.json",
+   "built_at": "2026-11-05T06:32:55Z",
+   "bytes": {
+    "90": 46444143,
+    "30": 187534029
+   },
+   "tiles": {
+    "90": 55,
+    "30": 27
+   },
+   "peaks": 6195,
+   "neighbours": [
+    "UA",
+    "HU",
+    "SK",
+    "PL",
+    "RS",
+    "HR",
+    "BG",
+    "MD"
+   ]
+  },
+  {
+   "code": "RS",
+   "name": "Serbia",
+   "bbox": [
+    18.845,
+    42.2349,
+    22.9846,
+    46.1739
+   ],
+   "manifest": "countries/RS.json",
+   "built_at": "2026-11-05T06:33:02Z",
+   "bytes": {
+    "90": 30252405,
+    "30": 157169317
+   },
+   "tiles": {
+    "90": 30,
+    "30": 22
+   },
+   "peaks": 13168,
+   "neighbours": [
+    "MK",
+    "AL",
+    "XK",
+    "RO",
+    "HU",
+    "GR",
+    "HR",
+    "BG",
+    "ME",
+    "BA"
+   ]
+  },
+  {
+   "code": "SE",
+   "name": "Sweden",
+   "bbox": [
+    11.1082,
+    55.3427,
+    24.1634,
+    69.0364
+   ],
+   "manifest": "countries/SE.json",
+   "built_at": "2026-11-05T06:33:07Z",
+   "bytes": {
+    "90": 63979890,
+    "30": 112049448
+   },
+   "tiles": {
+    "90": 150,
+    "30": 36
+   },
+   "peaks": 26978,
+   "neighbours": [
+    "DE",
+    "NO",
+    "FI",
+    "DK",
+    "PL",
+    "AX"
    ]
   }
  ]
