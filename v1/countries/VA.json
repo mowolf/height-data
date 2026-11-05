@@ -1,0 +1,86 @@
+{
+ "format_version": 1,
+ "code": "VA",
+ "name": "Vatican City",
+ "built_at": "2026-11-05T06:34:01Z",
+ "buffer_km": 50,
+ "bbox": [
+  12.4527,
+  41.9028,
+  12.454,
+  41.9039
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N42E011",
+    "bytes": 733664,
+    "sha256": "52df3871413da0df5ba4b836232e3feb2178da4fa2f4c64a0d82960db866c2c6"
+   },
+   {
+    "name": "N42E012",
+    "bytes": 1128720,
+    "sha256": "fb4c5063384a724d72f4a547ee0a7687777eacc2915ab171a5649a31df14a44c"
+   },
+   {
+    "name": "N42E013",
+    "bytes": 1158098,
+    "sha256": "2a418aa6c3c33edc65241962ba73a0c0a7e15e82dbd41afaa535e6e94076f4e9"
+   },
+   {
+    "name": "N41E011",
+    "bytes": 3011,
+    "sha256": "88c6736fdd75b32419d86e8bee09cfc8078eefe46da2983a41cb466a9c5532ec"
+   },
+   {
+    "name": "N41E012",
+    "bytes": 401728,
+    "sha256": "1f80f982e0ccbe03e8e545cf2339e0e5faf8694f0e201c4b47a2808a7a4d29df"
+   },
+   {
+    "name": "N41E013",
+    "bytes": 880396,
+    "sha256": "34f27b9e12e9ad2d9b487b3c70aceb1801267a7339866b669a6358f7b5149970"
+   }
+  ],
+  "30": [
+   {
+    "name": "N42E011",
+    "bytes": 4817219,
+    "sha256": "6e7140c14f6b374d263463775962629831b4444c4d85a2d0f188584f070482db"
+   },
+   {
+    "name": "N42E012",
+    "bytes": 7319454,
+    "sha256": "24476b9745250285921b5d8ada847615d2401fc1c7ced4b32a33491e3e3c27ee"
+   },
+   {
+    "name": "N42E013",
+    "bytes": 7546043,
+    "sha256": "fac8809e9fdc795a08fb1e1a8702f0c203f1be4ca6039ffa8258e2da80660d69"
+   },
+   {
+    "name": "N41E012",
+    "bytes": 2787233,
+    "sha256": "2688b5e366420a71cacfeb2d836c384d91f741c53081ff2dd95e1d431a554644"
+   },
+   {
+    "name": "N41E013",
+    "bytes": 5813296,
+    "sha256": "43e6783740f359a26a7c989838e758549439fd2a28ac12c167f094ee3f927adc"
+   }
+  ]
+ },
+ "peaks": {
+  "path": "peaks/VA.202611050634.sqlite.deflate",
+  "bytes": 455067,
+  "uncompressed_bytes": 1105920,
+  "sha256": "89b9d07a28f2da9ee2b9b7fa1d95818b0a7493ace12c5698b545f06c81c0093b",
+  "count": 4645,
+  "schema_version": 1
+ },
+ "neighbours": [
+  "IT"
+ ]
+}

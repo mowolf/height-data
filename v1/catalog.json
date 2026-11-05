@@ -1,6 +1,6 @@
 {
  "format_version": 1,
- "generated_at": "2026-11-05T06:33:58Z",
+ "generated_at": "2026-11-05T06:34:10Z",
  "attribution": [
   {
    "name": "Copernicus DEM",
@@ -1401,6 +1401,61 @@
     "PL",
     "BG",
     "MD"
+   ]
+  },
+  {
+   "code": "VA",
+   "name": "Vatican City",
+   "bbox": [
+    12.4527,
+    41.9028,
+    12.454,
+    41.9039
+   ],
+   "manifest": "countries/VA.json",
+   "built_at": "2026-11-05T06:34:01Z",
+   "bytes": {
+    "90": 4760684,
+    "30": 28738312
+   },
+   "tiles": {
+    "90": 6,
+    "30": 5
+   },
+   "peaks": 4645,
+   "neighbours": [
+    "IT"
+   ]
+  },
+  {
+   "code": "XK",
+   "name": "Kosovo",
+   "bbox": [
+    20.0248,
+    41.844,
+    21.7728,
+    43.2631
+   ],
+   "manifest": "countries/XK.json",
+   "built_at": "2026-11-05T06:34:04Z",
+   "bytes": {
+    "90": 14005908,
+    "30": 87262985
+   },
+   "tiles": {
+    "90": 12,
+    "30": 12
+   },
+   "peaks": 9211,
+   "neighbours": [
+    "MK",
+    "AL",
+    "RO",
+    "GR",
+    "RS",
+    "BG",
+    "ME",
+    "BA"
    ]
   }
  ]
