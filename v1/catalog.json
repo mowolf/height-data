@@ -1,6 +1,6 @@
 {
  "format_version": 1,
- "generated_at": "2026-11-05T06:28:44Z",
+ "generated_at": "2026-11-05T06:29:32Z",
  "attribution": [
   {
    "name": "Copernicus DEM",
@@ -379,6 +379,111 @@
     "SE",
     "PL"
    ]
+  },
+  {
+   "code": "EE",
+   "name": "Estonia",
+   "bbox": [
+    21.8324,
+    57.5158,
+    28.1865,
+    59.6709
+   ],
+   "manifest": "countries/EE.json",
+   "built_at": "2026-11-05T06:28:49Z",
+   "bytes": {
+    "90": 11154938,
+    "30": 106474
+   },
+   "tiles": {
+    "90": 28,
+    "30": 0
+   },
+   "peaks": 956,
+   "neighbours": [
+    "RU",
+    "LV",
+    "FI"
+   ]
+  },
+  {
+   "code": "ES",
+   "name": "Spain",
+   "bbox": [
+    -9.292,
+    35.1715,
+    4.3371,
+    43.7934
+   ],
+   "manifest": "countries/ES.json",
+   "built_at": "2026-11-05T06:28:54Z",
+   "bytes": {
+    "90": 79724751,
+    "30": 404369608
+   },
+   "tiles": {
+    "90": 100,
+    "30": 70
+   },
+   "peaks": 52990,
+   "neighbours": [
+    "FR",
+    "MA",
+    "DZ",
+    "AD",
+    "PT",
+    "GI"
+   ]
+  },
+  {
+   "code": "FI",
+   "name": "Finland",
+   "bbox": [
+    20.6232,
+    59.8112,
+    31.5695,
+    70.0753
+   ],
+   "manifest": "countries/FI.json",
+   "built_at": "2026-11-05T06:29:14Z",
+   "bytes": {
+    "90": 48840041,
+    "30": 21120892
+   },
+   "tiles": {
+    "90": 127,
+    "30": 7
+   },
+   "peaks": 10030,
+   "neighbours": [
+    "RU",
+    "EE",
+    "NO",
+    "SE",
+    "AX"
+   ]
+  },
+  {
+   "code": "FO",
+   "name": "Faroe Islands",
+   "bbox": [
+    -7.6442,
+    61.3941,
+    -6.2758,
+    62.3989
+   ],
+   "manifest": "countries/FO.json",
+   "built_at": "2026-11-05T06:29:27Z",
+   "bytes": {
+    "90": 215900,
+    "30": 25461
+   },
+   "tiles": {
+    "90": 4,
+    "30": 0
+   },
+   "peaks": 208,
+   "neighbours": []
   },
   {
    "code": "NP",

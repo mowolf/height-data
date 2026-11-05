@@ -1,0 +1,48 @@
+{
+ "format_version": 1,
+ "code": "FO",
+ "name": "Faroe Islands",
+ "built_at": "2026-11-05T06:29:27Z",
+ "buffer_km": 50,
+ "bbox": [
+  -7.6442,
+  61.3941,
+  -6.2758,
+  62.3989
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N62W008",
+    "bytes": 55017,
+    "sha256": "da279a1240ff1a319f3246cf4308fe1d74a6125b6988b8c08196945bfee3995d"
+   },
+   {
+    "name": "N62W007",
+    "bytes": 84899,
+    "sha256": "d7b7f1ad16e49e915a23566e110f2f97fc7c0f9c3d21df9371fd7ab967e32d07"
+   },
+   {
+    "name": "N61W008",
+    "bytes": 1639,
+    "sha256": "50e707535bc6f9253b040d6279e2fdd3c0af53299eaa2c78a114cb3d62807f28"
+   },
+   {
+    "name": "N61W007",
+    "bytes": 48884,
+    "sha256": "9cf7f80d99ec5d2675a9f1e25f09e2af509fd54526ffde06f88916dadc0f8d45"
+   }
+  ],
+  "30": []
+ },
+ "peaks": {
+  "path": "peaks/FO.202611050629.sqlite.deflate",
+  "bytes": 25461,
+  "uncompressed_bytes": 106496,
+  "sha256": "94512da62ab3db26bc47fa76e0e9b3e100bb1d016bafaa970cc2760122bcb527",
+  "count": 208,
+  "schema_version": 1
+ },
+ "neighbours": []
+}
