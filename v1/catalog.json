@@ -1,6 +1,6 @@
 {
  "format_version": 1,
- "generated_at": "2026-11-05T06:30:18Z",
+ "generated_at": "2026-11-05T06:30:47Z",
  "attribution": [
   {
    "name": "Copernicus DEM",
@@ -596,6 +596,123 @@
    "neighbours": [
     "MA",
     "ES"
+   ]
+  },
+  {
+   "code": "GR",
+   "name": "Greece",
+   "bbox": [
+    19.6265,
+    34.815,
+    28.2398,
+    41.7505
+   ],
+   "manifest": "countries/GR.json",
+   "built_at": "2026-11-05T06:30:22Z",
+   "bytes": {
+    "90": 35219472,
+    "30": 209421527
+   },
+   "tiles": {
+    "90": 63,
+    "30": 47
+   },
+   "peaks": 8638,
+   "neighbours": [
+    "MK",
+    "AL",
+    "XK",
+    "TR",
+    "BG"
+   ]
+  },
+  {
+   "code": "HR",
+   "name": "Croatia",
+   "bbox": [
+    13.5015,
+    42.4163,
+    19.4078,
+    46.547
+   ],
+   "manifest": "countries/HR.json",
+   "built_at": "2026-11-05T06:30:28Z",
+   "bytes": {
+    "90": 24713648,
+    "30": 108742594
+   },
+   "tiles": {
+    "90": 31,
+    "30": 17
+   },
+   "peaks": 10884,
+   "neighbours": [
+    "AL",
+    "RO",
+    "HU",
+    "AT",
+    "IT",
+    "RS",
+    "SI",
+    "ME",
+    "BA"
+   ]
+  },
+  {
+   "code": "HU",
+   "name": "Hungary",
+   "bbox": [
+    16.094,
+    45.7413,
+    22.8776,
+    48.5692
+   ],
+   "manifest": "countries/HU.json",
+   "built_at": "2026-11-05T06:30:34Z",
+   "bytes": {
+    "90": 32200395,
+    "30": 99291331
+   },
+   "tiles": {
+    "90": 34,
+    "30": 14
+   },
+   "peaks": 16938,
+   "neighbours": [
+    "UA",
+    "CZ",
+    "RO",
+    "SK",
+    "PL",
+    "AT",
+    "RS",
+    "HR",
+    "SI",
+    "BA"
+   ]
+  },
+  {
+   "code": "IE",
+   "name": "Ireland",
+   "bbox": [
+    -10.4782,
+    51.4457,
+    -5.9935,
+    55.3864
+   ],
+   "manifest": "countries/IE.json",
+   "built_at": "2026-11-05T06:30:41Z",
+   "bytes": {
+    "90": 7747582,
+    "30": 5486760
+   },
+   "tiles": {
+    "90": 26,
+    "30": 2
+   },
+   "peaks": 3493,
+   "neighbours": [
+    "GB"
    ]
   },
   {
