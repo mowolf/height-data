@@ -1,6 +1,6 @@
 {
  "format_version": 1,
- "generated_at": "2026-11-05T06:33:26Z",
+ "generated_at": "2026-11-05T06:33:58Z",
  "attribution": [
   {
    "name": "Copernicus DEM",
@@ -1288,6 +1288,119 @@
     "DK",
     "PL",
     "AX"
+   ]
+  },
+  {
+   "code": "SI",
+   "name": "Slovenia",
+   "bbox": [
+    13.3653,
+    45.4236,
+    16.5153,
+    46.864
+   ],
+   "manifest": "countries/SI.json",
+   "built_at": "2026-11-05T06:33:29Z",
+   "bytes": {
+    "90": 16807185,
+    "30": 88055959
+   },
+   "tiles": {
+    "90": 17,
+    "30": 13
+   },
+   "peaks": 13474,
+   "neighbours": [
+    "HU",
+    "AT",
+    "IT",
+    "HR",
+    "BA"
+   ]
+  },
+  {
+   "code": "SK",
+   "name": "Slovakia",
+   "bbox": [
+    16.8445,
+    47.75,
+    22.5396,
+    49.6018
+   ],
+   "manifest": "countries/SK.json",
+   "built_at": "2026-11-05T06:33:34Z",
+   "bytes": {
+    "90": 24304855,
+    "30": 98127860
+   },
+   "tiles": {
+    "90": 24,
+    "30": 14
+   },
+   "peaks": 20716,
+   "neighbours": [
+    "UA",
+    "CZ",
+    "RO",
+    "HU",
+    "PL",
+    "AT"
+   ]
+  },
+  {
+   "code": "SM",
+   "name": "San Marino",
+   "bbox": [
+    12.3856,
+    43.8921,
+    12.4924,
+    43.9826
+   ],
+   "manifest": "countries/SM.json",
+   "built_at": "2026-11-05T06:33:41Z",
+   "bytes": {
+    "90": 4331319,
+    "30": 24798419
+   },
+   "tiles": {
+    "90": 6,
+    "30": 4
+   },
+   "peaks": 3553,
+   "neighbours": [
+    "IT",
+    "HR"
+   ]
+  },
+  {
+   "code": "UA",
+   "name": "Ukraine",
+   "bbox": [
+    22.1328,
+    45.2136,
+    40.1595,
+    52.3689
+   ],
+   "manifest": "countries/UA.json",
+   "built_at": "2026-11-05T06:33:43Z",
+   "bytes": {
+    "90": 83470540,
+    "30": 78012881
+   },
+   "tiles": {
+    "90": 129,
+    "30": 11
+   },
+   "peaks": 8803,
+   "neighbours": [
+    "BY",
+    "RU",
+    "RO",
+    "HU",
+    "SK",
+    "PL",
+    "BG",
+    "MD"
    ]
   }
  ]

@@ -1,0 +1,82 @@
+{
+ "format_version": 1,
+ "code": "SM",
+ "name": "San Marino",
+ "built_at": "2026-11-05T06:33:41Z",
+ "buffer_km": 50,
+ "bbox": [
+  12.3856,
+  43.8921,
+  12.4924,
+  43.9826
+ ],
+ "tile_codec": "pred2d-deflate@1m",
+ "tiles": {
+  "90": [
+   {
+    "name": "N44E011",
+    "bytes": 839574,
+    "sha256": "2c2c1576fb058133906dc2f08d2be25f14e9e00dcd4876e633de8a902b3ce8e1"
+   },
+   {
+    "name": "N44E012",
+    "bytes": 265541,
+    "sha256": "895d8b0f60ce2394cc3070e3fdfc6bfa74b8efcc81869e1ac0ef1108923b7a75"
+   },
+   {
+    "name": "N44E013",
+    "bytes": 48885,
+    "sha256": "8316c1378020a9d4799270e1c6b048676facd812ffd9ab2435a6f854b9b263ac"
+   },
+   {
+    "name": "N43E011",
+    "bytes": 1140477,
+    "sha256": "a1bf253dbab607932065bd0a837ab6cf203f796a7e5161a5fc1c46fc00658563"
+   },
+   {
+    "name": "N43E012",
+    "bytes": 1129593,
+    "sha256": "2632cf42cc1c72c8c5e5c40ba1017bb9113250392333ab6bcbacc0c3938e05f5"
+   },
+   {
+    "name": "N43E013",
+    "bytes": 558793,
+    "sha256": "7effd8ad79f424faab2298d2a22e6e75fbade5e58d51ebb9e102b8401a787fd8"
+   }
+  ],
+  "30": [
+   {
+    "name": "N44E011",
+    "bytes": 6062376,
+    "sha256": "7020c873b2bbcce4b5dfa549db56200967d453281e7f308de0c59daa8b6f8b83"
+   },
+   {
+    "name": "N43E011",
+    "bytes": 7467470,
+    "sha256": "0c11aa3db793fecde09aebf22e20d8572408240e042cfbcfe73d7687377ca288"
+   },
+   {
+    "name": "N43E012",
+    "bytes": 7323881,
+    "sha256": "4b934740186527e41d129b23efc51f438e2634cc21a17aef7418fdf741a57ea2"
+   },
+   {
+    "name": "N43E013",
+    "bytes": 3596236,
+    "sha256": "a4d8589ea89f8d08df822a7eed8e86872bf8b2db1eb1c0d657cbe772e9a2e41b"
+   }
+  ]
+ },
+ "peaks": {
+  "path": "peaks/SM.202611050633.sqlite.deflate",
+  "bytes": 348456,
+  "uncompressed_bytes": 856064,
+  "sha256": "f7daaab1d2f6e932d44b6a091ae84014fe3b9a6263776733e894b1e95a7b71f6",
+  "count": 3553,
+  "schema_version": 1
+ },
+ "neighbours": [
+  "IT",
+  "HR"
+ ]
+}
