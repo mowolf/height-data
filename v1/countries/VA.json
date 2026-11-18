@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "VA",
  "name": "Vatican City",
- "built_at": "2026-11-05T06:34:01Z",
+ "built_at": "2026-11-18T03:05:17Z",
  "buffer_km": 50,
  "bbox": [
   12.4527,
@@ -73,11 +73,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/VA.202611050634.sqlite.deflate",
-  "bytes": 455067,
+  "path": "peaks/VA.202611180305.sqlite.deflate",
+  "bytes": 459076,
   "uncompressed_bytes": 1105920,
-  "sha256": "89b9d07a28f2da9ee2b9b7fa1d95818b0a7493ace12c5698b545f06c81c0093b",
-  "count": 4645,
+  "sha256": "4a77115f70216842769e61fe3666efe29464788235bcc23509724023a7e434ee",
+  "count": 4652,
   "schema_version": 1
  },
  "neighbours": [

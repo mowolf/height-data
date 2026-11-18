@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "CH",
  "name": "Switzerland",
- "built_at": "2026-11-05T06:27:54Z",
+ "built_at": "2026-11-18T02:58:27Z",
  "buffer_km": 50,
  "bbox": [
   5.9548,
@@ -238,11 +238,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/CH.202611050627.sqlite.deflate",
-  "bytes": 3909336,
-  "uncompressed_bytes": 8884224,
-  "sha256": "3029d4699faf97aa8ab31d30a025b95b901c8538771deab90507973ed18dc6d9",
-  "count": 33102,
+  "path": "peaks/CH.202611180258.sqlite.deflate",
+  "bytes": 3911137,
+  "uncompressed_bytes": 8892416,
+  "sha256": "19c5da1bb706a7e74c2e914362807a18d91ac0673caea4b3ed75cd597eee4e5f",
+  "count": 33122,
   "schema_version": 1
  },
  "neighbours": [

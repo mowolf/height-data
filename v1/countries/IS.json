@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "IS",
  "name": "Iceland",
- "built_at": "2026-11-05T06:30:52Z",
+ "built_at": "2026-11-18T03:01:43Z",
  "buffer_km": 50,
  "bbox": [
   -24.5399,
@@ -363,11 +363,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/IS.202611050630.sqlite.deflate",
-  "bytes": 165982,
-  "uncompressed_bytes": 438272,
-  "sha256": "58aeb25210db052bb50a71fae451f14d7d7dc259bdbf6f90d3846663ca8306a2",
-  "count": 1740,
+  "path": "peaks/IS.202611180301.sqlite.deflate",
+  "bytes": 382903,
+  "uncompressed_bytes": 970752,
+  "sha256": "d9c0b4ffebaa941a12b8dba1c9300ff9fe2cdf5c57dcd10845ae16df41e73e56",
+  "count": 3836,
   "schema_version": 1
  },
  "neighbours": []

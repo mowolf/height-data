@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "SE",
  "name": "Sweden",
- "built_at": "2026-11-05T06:33:07Z",
+ "built_at": "2026-11-18T03:04:16Z",
  "buffer_km": 50,
  "bbox": [
   11.1082,
@@ -948,11 +948,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/SE.202611050633.sqlite.deflate",
-  "bytes": 2596874,
-  "uncompressed_bytes": 6172672,
-  "sha256": "4740f01dfdf38ded0f8b4df442367f04cf1ffa38a8d31ad4dff0e078b8ff76ba",
-  "count": 26978,
+  "path": "peaks/SE.202611180304.sqlite.deflate",
+  "bytes": 2601999,
+  "uncompressed_bytes": 6180864,
+  "sha256": "23efab246d614cce38dcc6d97edb44ba9c3fee8d7203b01129df79584df77b51",
+  "count": 27015,
   "schema_version": 1
  },
  "neighbours": [

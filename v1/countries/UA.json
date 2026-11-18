@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "UA",
  "name": "Ukraine",
- "built_at": "2026-11-05T06:33:43Z",
+ "built_at": "2026-11-18T03:05:00Z",
  "buffer_km": 50,
  "bbox": [
   22.1328,
@@ -718,11 +718,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/UA.202611050633.sqlite.deflate",
-  "bytes": 973335,
-  "uncompressed_bytes": 2342912,
-  "sha256": "5aa58e740293909c56e184672fba325c72c0c21e529963e6ef43696dfd3aa218",
-  "count": 8803,
+  "path": "peaks/UA.202611180305.sqlite.deflate",
+  "bytes": 1219005,
+  "uncompressed_bytes": 2895872,
+  "sha256": "c7991a461def79ebde30c339a24ee557a238f9d30d0306be287fdd1741868cb3",
+  "count": 11170,
   "schema_version": 1
  },
  "neighbours": [

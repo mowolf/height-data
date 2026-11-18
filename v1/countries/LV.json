@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "LV",
  "name": "Latvia",
- "built_at": "2026-11-05T06:31:39Z",
+ "built_at": "2026-11-18T03:02:34Z",
  "buffer_km": 50,
  "bbox": [
   20.9686,
@@ -187,11 +187,11 @@
   "30": []
  },
  "peaks": {
-  "path": "peaks/LV.202611050631.sqlite.deflate",
-  "bytes": 2286,
-  "uncompressed_bytes": 57344,
-  "sha256": "47eb70dbb2d6dd7d3fa173ee06be457bb0f6f7b7454c075d456e0a042844cd39",
-  "count": 5,
+  "path": "peaks/LV.202611180302.sqlite.deflate",
+  "bytes": 75256,
+  "uncompressed_bytes": 204800,
+  "sha256": "35ace72ed85bb2422c11862f6f5f74b90c74d5803ac429b86c52e0308142adeb",
+  "count": 534,
   "schema_version": 1
  },
  "neighbours": [

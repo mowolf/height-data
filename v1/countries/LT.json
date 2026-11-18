@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "LT",
  "name": "Lithuania",
- "built_at": "2026-11-05T06:31:32Z",
+ "built_at": "2026-11-18T03:02:22Z",
  "buffer_km": 50,
  "bbox": [
   20.9246,
@@ -162,11 +162,11 @@
   "30": []
  },
  "peaks": {
-  "path": "peaks/LT.202611050631.sqlite.deflate",
-  "bytes": 19687,
-  "uncompressed_bytes": 81920,
-  "sha256": "bcf701d4cea6d2efd4737ce686a559d6bdcf9181c6558e088b42ab2106e72f5a",
-  "count": 125,
+  "path": "peaks/LT.202611180302.sqlite.deflate",
+  "bytes": 106053,
+  "uncompressed_bytes": 278528,
+  "sha256": "01aebacf19a218ddb131f38cb8a796163f23554cd5db35adfae3cb87fb956256",
+  "count": 742,
   "schema_version": 1
  },
  "neighbours": [

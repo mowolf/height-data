@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "BE",
  "name": "Belgium",
- "built_at": "2026-11-05T06:26:40Z",
+ "built_at": "2026-11-18T02:58:03Z",
  "buffer_km": 50,
  "bbox": [
   2.5218,
@@ -108,11 +108,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/BE.202611050626.sqlite.deflate",
-  "bytes": 397966,
+  "path": "peaks/BE.202611180258.sqlite.deflate",
+  "bytes": 398139,
   "uncompressed_bytes": 942080,
-  "sha256": "030a476d6afacfb54669d3619a00477b5d5f86c85baaa9093d258e27f039535b",
-  "count": 3764,
+  "sha256": "f8991b8e26d844ee5aabdb4086166204db527005cee867f1106c6dcef6e7194c",
+  "count": 3765,
   "schema_version": 1
  },
  "neighbours": [

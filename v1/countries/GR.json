@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "GR",
  "name": "Greece",
- "built_at": "2026-11-05T06:30:22Z",
+ "built_at": "2026-11-18T03:01:03Z",
  "buffer_km": 50,
  "bbox": [
   19.6265,
@@ -568,11 +568,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/GR.202611050630.sqlite.deflate",
-  "bytes": 860062,
-  "uncompressed_bytes": 2043904,
-  "sha256": "8dc77d6622d36af7dd812cd62be91e3669708aab0fff118ca0b4ca0dfc1ce7a9",
-  "count": 8638,
+  "path": "peaks/GR.202611180301.sqlite.deflate",
+  "bytes": 1840608,
+  "uncompressed_bytes": 4190208,
+  "sha256": "57f3345de1f471234ff8c8ed98365dd96de4b386bd40b21f8ac8fa11d46e611a",
+  "count": 16243,
   "schema_version": 1
  },
  "neighbours": [

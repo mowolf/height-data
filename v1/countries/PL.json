@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "PL",
  "name": "Poland",
- "built_at": "2026-11-05T06:32:28Z",
+ "built_at": "2026-11-18T03:03:31Z",
  "buffer_km": 50,
  "bbox": [
   14.1239,
@@ -468,11 +468,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/PL.202611050632.sqlite.deflate",
-  "bytes": 3695989,
-  "uncompressed_bytes": 8507392,
-  "sha256": "2110538e12ba228d209189dc5c8bbe57f18ca25e93102bfed6073745e2d0d2ab",
-  "count": 34872,
+  "path": "peaks/PL.202611180303.sqlite.deflate",
+  "bytes": 3816804,
+  "uncompressed_bytes": 8777728,
+  "sha256": "29f14187a9585e5ad1f3a0eb747fc455ff546fefcc825e919b344cdd836b4dd1",
+  "count": 35950,
   "schema_version": 1
  },
  "neighbours": [

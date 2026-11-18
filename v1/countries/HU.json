@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "HU",
  "name": "Hungary",
- "built_at": "2026-11-05T06:30:34Z",
+ "built_at": "2026-11-18T03:01:26Z",
  "buffer_km": 50,
  "bbox": [
   16.094,
@@ -258,11 +258,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/HU.202611050630.sqlite.deflate",
-  "bytes": 1765176,
-  "uncompressed_bytes": 4046848,
-  "sha256": "aca9424f6d38f47add3a5df925d43bdd915b092e009edb56060e57986db5bab0",
-  "count": 16938,
+  "path": "peaks/HU.202611180301.sqlite.deflate",
+  "bytes": 2592021,
+  "uncompressed_bytes": 5926912,
+  "sha256": "b4d2e593e3bb8b20d5b18ac21eb3ef80486c776ff4740ac81aea1f50f9e51c9a",
+  "count": 25244,
   "schema_version": 1
  },
  "neighbours": [

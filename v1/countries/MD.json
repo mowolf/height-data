@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "MD",
  "name": "Moldova",
- "built_at": "2026-11-05T06:31:51Z",
+ "built_at": "2026-11-18T03:02:45Z",
  "buffer_km": 50,
  "bbox": [
   26.6179,
@@ -118,11 +118,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/MD.202611050631.sqlite.deflate",
-  "bytes": 31618,
-  "uncompressed_bytes": 122880,
-  "sha256": "c0ce470fb1ec4470ae974e5440014d7d28459cc34e82db1624759003b599305d",
-  "count": 188,
+  "path": "peaks/MD.202611180302.sqlite.deflate",
+  "bytes": 129839,
+  "uncompressed_bytes": 339968,
+  "sha256": "17b59e93f649c913f656cf823897450f460314acc02c25065804925cee9cc007",
+  "count": 1152,
   "schema_version": 1
  },
  "neighbours": [

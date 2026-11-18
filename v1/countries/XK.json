@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "XK",
  "name": "Kosovo",
- "built_at": "2026-11-05T06:34:04Z",
+ "built_at": "2026-11-18T03:05:20Z",
  "buffer_km": 50,
  "bbox": [
   20.0248,
@@ -138,11 +138,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/XK.202611050634.sqlite.deflate",
-  "bytes": 842470,
-  "uncompressed_bytes": 2072576,
-  "sha256": "3d015ab313b0b66d4fbe5aec3734fb49d6aad67a6d6ed1c26d962c68961b65d1",
-  "count": 9211,
+  "path": "peaks/XK.202611180305.sqlite.deflate",
+  "bytes": 1684704,
+  "uncompressed_bytes": 4001792,
+  "sha256": "84d8b8b55786282844c215fed221c0bda77ad5817a8d949817805da533221470",
+  "count": 14874,
   "schema_version": 1
  },
  "neighbours": [

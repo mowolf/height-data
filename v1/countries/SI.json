@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "SI",
  "name": "Slovenia",
- "built_at": "2026-11-05T06:33:29Z",
+ "built_at": "2026-11-18T03:04:38Z",
  "buffer_km": 50,
  "bbox": [
   13.3653,
@@ -168,11 +168,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/SI.202611050633.sqlite.deflate",
-  "bytes": 1412583,
-  "uncompressed_bytes": 3235840,
-  "sha256": "501ac8ed7274e4e482df0173e17e743c871b64d33ec86c29cd15843d1f8605f2",
-  "count": 13474,
+  "path": "peaks/SI.202611180304.sqlite.deflate",
+  "bytes": 3215297,
+  "uncompressed_bytes": 7389184,
+  "sha256": "b53d369a933b2d34cc633fe3615fbb638af76fbfcb61bdb1b8719c6d91b569a6",
+  "count": 32869,
   "schema_version": 1
  },
  "neighbours": [

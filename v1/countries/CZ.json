@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "CZ",
  "name": "Czech Republic",
- "built_at": "2026-11-05T06:28:04Z",
+ "built_at": "2026-11-18T02:58:40Z",
  "buffer_km": 50,
  "bbox": [
   12.0761,
@@ -228,11 +228,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/CZ.202611050628.sqlite.deflate",
-  "bytes": 3556619,
-  "uncompressed_bytes": 8163328,
-  "sha256": "d014d2bd4d02d7508733ee11da5d58d3919ad46a5c418bfca028fb4f62c25173",
-  "count": 34283,
+  "path": "peaks/CZ.202611180258.sqlite.deflate",
+  "bytes": 3559256,
+  "uncompressed_bytes": 8155136,
+  "sha256": "25a15f692043e8b51c612d479739a2c1b1eb5f7d99d17e3b5aa3a251616c6c7a",
+  "count": 34299,
   "schema_version": 1
  },
  "neighbours": [

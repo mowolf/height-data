@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "RS",
  "name": "Serbia",
- "built_at": "2026-11-05T06:33:02Z",
+ "built_at": "2026-11-18T03:04:06Z",
  "buffer_km": 50,
  "bbox": [
   18.845,
@@ -278,11 +278,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/RS.202611050633.sqlite.deflate",
-  "bytes": 1162109,
-  "uncompressed_bytes": 2875392,
-  "sha256": "8c6bc8226c09596139b2b2f2356ce4aba7659ea2047f246b00c6906c156cd8ec",
-  "count": 13168,
+  "path": "peaks/RS.202611180304.sqlite.deflate",
+  "bytes": 2649755,
+  "uncompressed_bytes": 6246400,
+  "sha256": "f4f8a514f1eccce665cceb1384803fd97075f051c241b428d72f1742a53b81e9",
+  "count": 23439,
   "schema_version": 1
  },
  "neighbours": [

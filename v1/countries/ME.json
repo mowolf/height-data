@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "ME",
  "name": "Montenegro",
- "built_at": "2026-11-05T06:31:54Z",
+ "built_at": "2026-11-18T03:02:48Z",
  "buffer_km": 50,
  "bbox": [
   18.4335,
@@ -103,11 +103,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/ME.202611050631.sqlite.deflate",
-  "bytes": 648613,
-  "uncompressed_bytes": 1675264,
-  "sha256": "0093477ecd9659c4d2d3cc2142b28a4860f3d5d268064c360954e88d1ae8e98f",
-  "count": 7775,
+  "path": "peaks/ME.202611180302.sqlite.deflate",
+  "bytes": 1517771,
+  "uncompressed_bytes": 3645440,
+  "sha256": "bb94b05a4660a7920ed8fcc2ff1137ed713452e2244a148fd8c95ff33b791c8d",
+  "count": 13834,
   "schema_version": 1
  },
  "neighbours": [

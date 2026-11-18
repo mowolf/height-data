@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "SM",
  "name": "San Marino",
- "built_at": "2026-11-05T06:33:41Z",
+ "built_at": "2026-11-18T03:04:56Z",
  "buffer_km": 50,
  "bbox": [
   12.3856,
@@ -68,11 +68,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/SM.202611050633.sqlite.deflate",
-  "bytes": 348456,
-  "uncompressed_bytes": 856064,
-  "sha256": "f7daaab1d2f6e932d44b6a091ae84014fe3b9a6263776733e894b1e95a7b71f6",
-  "count": 3553,
+  "path": "peaks/SM.202611180304.sqlite.deflate",
+  "bytes": 353808,
+  "uncompressed_bytes": 864256,
+  "sha256": "f86875cc50a014fb8a142e9b7094274bed3680e042ad6baa0b27ab78d4de491b",
+  "count": 3612,
   "schema_version": 1
  },
  "neighbours": [

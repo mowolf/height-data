@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "GI",
  "name": "Gibraltar",
- "built_at": "2026-11-05T06:30:12Z",
+ "built_at": "2026-11-18T03:01:00Z",
  "buffer_km": 50,
  "bbox": [
   -5.3584,
@@ -58,11 +58,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/GI.202611050630.sqlite.deflate",
-  "bytes": 144342,
-  "uncompressed_bytes": 352256,
-  "sha256": "5e29353e7131ff96e122e06a795e9bb71dac78fa2daec180ef841b6298ee7197",
-  "count": 1299,
+  "path": "peaks/GI.202611180301.sqlite.deflate",
+  "bytes": 146664,
+  "uncompressed_bytes": 372736,
+  "sha256": "38cc80f9ef42b56470adefe73e7a2cadb1889986c5db31577a39840793ff076c",
+  "count": 1336,
   "schema_version": 1
  },
  "neighbours": [

@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "LU",
  "name": "Luxembourg",
- "built_at": "2026-11-05T06:31:35Z",
+ "built_at": "2026-11-18T03:02:29Z",
  "buffer_km": 50,
  "bbox": [
   5.7149,
@@ -68,11 +68,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/LU.202611050631.sqlite.deflate",
-  "bytes": 514750,
+  "path": "peaks/LU.202611180302.sqlite.deflate",
+  "bytes": 515124,
   "uncompressed_bytes": 1196032,
-  "sha256": "06d246417d29e2e908463bdca32a3068ecda2a4d99e9911374c477650c1745e1",
-  "count": 4810,
+  "sha256": "47cf768144b98942983a28134d1db40cf2f9cfbdd61d7c54470fb924edd8ba7e",
+  "count": 4813,
   "schema_version": 1
  },
  "neighbours": [

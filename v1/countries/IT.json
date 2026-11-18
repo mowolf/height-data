@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "IT",
  "name": "Italy",
- "built_at": "2026-11-05T06:30:56Z",
+ "built_at": "2026-11-18T03:01:47Z",
  "buffer_km": 50,
  "bbox": [
   6.6027,
@@ -828,11 +828,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/IT.202611050630.sqlite.deflate",
-  "bytes": 7899935,
-  "uncompressed_bytes": 17756160,
-  "sha256": "853a17d6d141ccd67ba6a7461f3912943d67db43b46309e31e3c08cb34da982c",
-  "count": 70654,
+  "path": "peaks/IT.202611180301.sqlite.deflate",
+  "bytes": 8829035,
+  "uncompressed_bytes": 19795968,
+  "sha256": "c2be046878fe677311895bc02fe3f0126050657f29a42e0da6ac038e09400f09",
+  "count": 80303,
   "schema_version": 1
  },
  "neighbours": [

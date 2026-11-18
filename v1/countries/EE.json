@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "EE",
  "name": "Estonia",
- "built_at": "2026-11-05T06:28:49Z",
+ "built_at": "2026-11-18T02:59:24Z",
  "buffer_km": 50,
  "bbox": [
   21.8324,
@@ -157,11 +157,11 @@
   "30": []
  },
  "peaks": {
-  "path": "peaks/EE.202611050628.sqlite.deflate",
-  "bytes": 106474,
-  "uncompressed_bytes": 290816,
-  "sha256": "1c0396d24a94813218e43172ce82a5b46a2f7beac3bcbb6b9ba60fa724e83d3c",
-  "count": 956,
+  "path": "peaks/EE.202611180259.sqlite.deflate",
+  "bytes": 134324,
+  "uncompressed_bytes": 339968,
+  "sha256": "d230a69b815a00839ba7a9472c745817fbc189924eaad001659a455362799ab0",
+  "count": 1173,
   "schema_version": 1
  },
  "neighbours": [

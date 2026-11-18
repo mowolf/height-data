@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "BY",
  "name": "Belarus",
- "built_at": "2026-11-05T06:27:38Z",
+ "built_at": "2026-11-18T02:58:18Z",
  "buffer_km": 50,
  "bbox": [
   23.1656,
@@ -337,11 +337,11 @@
   "30": []
  },
  "peaks": {
-  "path": "peaks/BY.202611050627.sqlite.deflate",
-  "bytes": 41778,
-  "uncompressed_bytes": 131072,
-  "sha256": "cb4bce626214a7fed901607809683f1c080c602a3425100c9ba3afecbf600870",
-  "count": 292,
+  "path": "peaks/BY.202611180258.sqlite.deflate",
+  "bytes": 126853,
+  "uncompressed_bytes": 331776,
+  "sha256": "c269da32e2d4a9073e2f1320402eb597f95f97b00154cd18109601b209911604",
+  "count": 840,
   "schema_version": 1
  },
  "neighbours": [

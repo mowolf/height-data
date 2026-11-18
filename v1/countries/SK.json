@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "SK",
  "name": "Slovakia",
- "built_at": "2026-11-05T06:33:34Z",
+ "built_at": "2026-11-18T03:04:47Z",
  "buffer_km": 50,
  "bbox": [
   16.8445,
@@ -208,11 +208,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/SK.202611050633.sqlite.deflate",
-  "bytes": 2170670,
-  "uncompressed_bytes": 5021696,
-  "sha256": "78515d5e516084e1e780a02f920c202f590eb4aedb81f605e1acc8891042b1b9",
-  "count": 20716,
+  "path": "peaks/SK.202611180304.sqlite.deflate",
+  "bytes": 2477436,
+  "uncompressed_bytes": 5709824,
+  "sha256": "32b04c9354b00929da071f15c06b7cc6331fec3995cd0df2e17a69af1a4ef9b5",
+  "count": 23822,
   "schema_version": 1
  },
  "neighbours": [

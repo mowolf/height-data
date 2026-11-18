@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "FI",
  "name": "Finland",
- "built_at": "2026-11-05T06:29:14Z",
+ "built_at": "2026-11-18T02:59:50Z",
  "buffer_km": 50,
  "bbox": [
   20.6232,
@@ -688,11 +688,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/FI.202611050629.sqlite.deflate",
-  "bytes": 993556,
-  "uncompressed_bytes": 2387968,
-  "sha256": "798449333d3367b5ea053b118cb5cf62e706630fc3132c5a8370ee143fad1e63",
-  "count": 10030,
+  "path": "peaks/FI.202611180259.sqlite.deflate",
+  "bytes": 1072635,
+  "uncompressed_bytes": 2576384,
+  "sha256": "1bd9b650645eb86621966fd71148588b804342559ea10b726311b2631faae560",
+  "count": 10654,
   "schema_version": 1
  },
  "neighbours": [

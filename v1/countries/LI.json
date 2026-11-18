@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "LI",
  "name": "Liechtenstein",
- "built_at": "2026-11-05T06:31:26Z",
+ "built_at": "2026-11-18T03:02:15Z",
  "buffer_km": 50,
  "bbox": [
   9.4759,
@@ -78,11 +78,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/LI.202611050631.sqlite.deflate",
-  "bytes": 1629340,
-  "uncompressed_bytes": 3780608,
-  "sha256": "684e3c1c8d647aaf914671977ad429f13f66802604b63a17c6524b62a462ad26",
-  "count": 13456,
+  "path": "peaks/LI.202611180302.sqlite.deflate",
+  "bytes": 1631489,
+  "uncompressed_bytes": 3788800,
+  "sha256": "7b3de03dbdbf76ec6ab26add1159ade5cf1f94f76c8a810b2c88184f00dda385",
+  "count": 13473,
   "schema_version": 1
  },
  "neighbours": [

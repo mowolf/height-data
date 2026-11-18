@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "AT",
  "name": "Austria",
- "built_at": "2026-11-05T06:25:30Z",
+ "built_at": "2026-11-18T02:57:35Z",
  "buffer_km": 50,
  "bbox": [
   9.5212,
@@ -303,11 +303,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/AT.202611050625.sqlite.deflate",
-  "bytes": 5213048,
-  "uncompressed_bytes": 11890688,
-  "sha256": "bf8508758d608bb60efbd63482a11f710ab93bcdbb08f13c53a17083c59fd1dc",
-  "count": 46860,
+  "path": "peaks/AT.202611180257.sqlite.deflate",
+  "bytes": 6239951,
+  "uncompressed_bytes": 14184448,
+  "sha256": "9911eb35d4beb16d0fd631cec1f7435a2b65a31454b1466932d831c8ad37048a",
+  "count": 57497,
   "schema_version": 1
  },
  "neighbours": [

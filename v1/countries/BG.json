@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "BG",
  "name": "Bulgaria",
- "built_at": "2026-11-05T06:26:49Z",
+ "built_at": "2026-11-18T02:58:09Z",
  "buffer_km": 50,
  "bbox": [
   22.345,
@@ -318,11 +318,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/BG.202611050626.sqlite.deflate",
-  "bytes": 733260,
-  "uncompressed_bytes": 1765376,
-  "sha256": "756ab4288ab4db29d54ada4c6e259fc09d0314447897412af5a9d933b13ac52c",
-  "count": 7660,
+  "path": "peaks/BG.202611180258.sqlite.deflate",
+  "bytes": 1700343,
+  "uncompressed_bytes": 3973120,
+  "sha256": "df22a815d7fbeb901dcbe75c5e6162e0f0a8252e04eb6e43d0de46e4fb80d239",
+  "count": 15198,
   "schema_version": 1
  },
  "neighbours": [

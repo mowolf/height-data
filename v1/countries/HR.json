@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "HR",
  "name": "Croatia",
- "built_at": "2026-11-05T06:30:28Z",
+ "built_at": "2026-11-18T03:01:14Z",
  "buffer_km": 50,
  "bbox": [
   13.5015,
@@ -258,11 +258,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/HR.202611050630.sqlite.deflate",
-  "bytes": 949984,
-  "uncompressed_bytes": 2371584,
-  "sha256": "0977faf8de45b397bf882df0998ed8ee2526fe4920d033ad66c647c505eccdaf",
-  "count": 10884,
+  "path": "peaks/HR.202611180301.sqlite.deflate",
+  "bytes": 3821891,
+  "uncompressed_bytes": 8818688,
+  "sha256": "83ffef5353964702781529959248224da6d90a302c380f56816e8128ed5f9671",
+  "count": 37979,
   "schema_version": 1
  },
  "neighbours": [

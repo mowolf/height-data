@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "MT",
  "name": "Malta",
- "built_at": "2026-11-05T06:32:05Z",
+ "built_at": "2026-11-18T03:02:57Z",
  "buffer_km": 50,
  "bbox": [
   14.1836,
@@ -32,11 +32,11 @@
   "30": []
  },
  "peaks": {
-  "path": "peaks/MT.202611050632.sqlite.deflate",
-  "bytes": 19615,
-  "uncompressed_bytes": 81920,
-  "sha256": "f58a989138083c845f68cc1adbc75c728c1e31d4b7ce4a854f3ba57f54a3a855",
-  "count": 134,
+  "path": "peaks/MT.202611180302.sqlite.deflate",
+  "bytes": 22257,
+  "uncompressed_bytes": 86016,
+  "sha256": "ee3b40a8acb2616321d4c3e5b244a125877695d96a97f3f99f6ab2338d1d72f7",
+  "count": 152,
   "schema_version": 1
  },
  "neighbours": [

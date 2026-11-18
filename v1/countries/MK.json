@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "MK",
  "name": "North Macedonia",
- "built_at": "2026-11-05T06:31:56Z",
+ "built_at": "2026-11-18T03:02:53Z",
  "buffer_km": 50,
  "bbox": [
   20.4442,
@@ -168,11 +168,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/MK.202611050631.sqlite.deflate",
-  "bytes": 746991,
-  "uncompressed_bytes": 1818624,
-  "sha256": "b8037f750f0483c68337766ede96a215058e524433428abf874c0c23cfab3538",
-  "count": 7789,
+  "path": "peaks/MK.202611180302.sqlite.deflate",
+  "bytes": 1582040,
+  "uncompressed_bytes": 3657728,
+  "sha256": "19121ef92b21b199ba94b2d26b369f52bbee4c9d27b68e5a3a966f32e3d1a280",
+  "count": 14104,
   "schema_version": 1
  },
  "neighbours": [

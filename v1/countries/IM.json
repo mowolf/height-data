@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "IM",
  "name": "Isle of Man",
- "built_at": "2026-11-05T06:30:50Z",
+ "built_at": "2026-11-18T03:01:41Z",
  "buffer_km": 50,
  "bbox": [
   -4.7902,
@@ -58,11 +58,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/IM.202611050630.sqlite.deflate",
-  "bytes": 182170,
-  "uncompressed_bytes": 446464,
-  "sha256": "18b8c84c2aaeb6dabc77ef7d6771f32f64ab683c7811a63d11e1cf7bb1bff23c",
-  "count": 1536,
+  "path": "peaks/IM.202611180301.sqlite.deflate",
+  "bytes": 188190,
+  "uncompressed_bytes": 454656,
+  "sha256": "3c25d76e93417fc7f3410296057f61c5d5f2af181564b590c702d9e583ee5a43",
+  "count": 1593,
   "schema_version": 1
  },
  "neighbours": [

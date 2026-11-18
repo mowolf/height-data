@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "AL",
  "name": "Albania",
- "built_at": "2026-11-05T06:25:17Z",
+ "built_at": "2026-11-18T02:57:16Z",
  "buffer_km": 50,
  "bbox": [
   19.272,
@@ -173,11 +173,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/AL.202611050625.sqlite.deflate",
-  "bytes": 787268,
-  "uncompressed_bytes": 1949696,
-  "sha256": "13c890b6edbd8b694ff89eb39329d69825fb7a83902c812e0b5c21adf00eb8cd",
-  "count": 8695,
+  "path": "peaks/AL.202611180257.sqlite.deflate",
+  "bytes": 1742271,
+  "uncompressed_bytes": 4091904,
+  "sha256": "c14584f115fc60a69e191ad18353a5834e7b88795c418ea6f1e66bed0c08deeb",
+  "count": 15298,
   "schema_version": 1
  },
  "neighbours": [

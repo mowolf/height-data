@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "GG",
  "name": "Guernsey",
- "built_at": "2026-11-05T06:30:10Z",
+ "built_at": "2026-11-18T03:00:57Z",
  "buffer_km": 50,
  "bbox": [
   -2.6735,
@@ -42,10 +42,10 @@
   "30": []
  },
  "peaks": {
-  "path": "peaks/GG.202611050630.sqlite.deflate",
+  "path": "peaks/GG.202611180300.sqlite.deflate",
   "bytes": 46196,
   "uncompressed_bytes": 147456,
-  "sha256": "8eabc76093c8f87cf791914aca2346035b47c7fdc1457cdf68868bd3a8759f8a",
+  "sha256": "e490dfc34e388bcfc245b6ad7a104313dd7d993b42a235640419a635f7810c3e",
   "count": 370,
   "schema_version": 1
  },

@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "DE",
  "name": "Germany",
- "built_at": "2026-11-05T06:28:13Z",
+ "built_at": "2026-11-18T02:58:51Z",
  "buffer_km": 50,
  "bbox": [
   5.8525,
@@ -568,11 +568,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/DE.202611050628.sqlite.deflate",
-  "bytes": 7556326,
-  "uncompressed_bytes": 17399808,
-  "sha256": "61773a27a1e363018b84dd9ec16e9005be10ef897829f1cc055b355f7ea50e0e",
-  "count": 70041,
+  "path": "peaks/DE.202611180258.sqlite.deflate",
+  "bytes": 7571669,
+  "uncompressed_bytes": 17432576,
+  "sha256": "9cec29ac87d5e867641374cdafa7dcdf50068980e266e0bcf97927ccf731d1f0",
+  "count": 70157,
   "schema_version": 1
  },
  "neighbours": [

@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "BA",
  "name": "Bosnia and Herzegovina",
- "built_at": "2026-11-05T06:26:37Z",
+ "built_at": "2026-11-18T02:57:56Z",
  "buffer_km": 50,
  "bbox": [
   15.7161,
@@ -193,11 +193,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/BA.202611050626.sqlite.deflate",
-  "bytes": 910989,
-  "uncompressed_bytes": 2363392,
-  "sha256": "a775f790fac84fc28ada1a1935e4d01fb79f935e832ba050e45df09c98df5575",
-  "count": 11224,
+  "path": "peaks/BA.202611180257.sqlite.deflate",
+  "bytes": 2945473,
+  "uncompressed_bytes": 7004160,
+  "sha256": "a016e8432469dcb641a90f2d9b8511dff0652754c4202b925cde72bc1a8b90e3",
+  "count": 28459,
   "schema_version": 1
  },
  "neighbours": [

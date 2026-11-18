@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "DK",
  "name": "Denmark",
- "built_at": "2026-11-05T06:28:33Z",
+ "built_at": "2026-11-18T02:59:16Z",
  "buffer_km": 50,
  "bbox": [
   8.094,
@@ -177,11 +177,11 @@
   "30": []
  },
  "peaks": {
-  "path": "peaks/DK.202611050628.sqlite.deflate",
-  "bytes": 226166,
-  "uncompressed_bytes": 548864,
-  "sha256": "abbd59be3738d67c845810d9abbfd83e16de42da41d43ee1626ee4858884451e",
-  "count": 2233,
+  "path": "peaks/DK.202611180259.sqlite.deflate",
+  "bytes": 225656,
+  "uncompressed_bytes": 557056,
+  "sha256": "457450dc6a5fdcc82244a70cc0b7e7a5a7d8da7c9d04e91c918abce116ce4ddf",
+  "count": 2258,
   "schema_version": 1
  },
  "neighbours": [

@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "NO",
  "name": "Norway",
- "built_at": "2026-11-05T06:32:12Z",
+ "built_at": "2026-11-18T03:03:06Z",
  "buffer_km": 50,
  "bbox": [
   -9.1174,
@@ -1173,11 +1173,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/NO.202611050632.sqlite.deflate",
-  "bytes": 3677916,
-  "uncompressed_bytes": 8732672,
-  "sha256": "f6c6f609a33614854e9362aeebcd32480df4e97e40257c97488bf9c01e0b264a",
-  "count": 37171,
+  "path": "peaks/NO.202611180303.sqlite.deflate",
+  "bytes": 3714746,
+  "uncompressed_bytes": 8802304,
+  "sha256": "de1a2bd3e7bf8e450fe5938e118bd88768cb8601923c57da22532df53bc22303",
+  "count": 37440,
   "schema_version": 1
  },
  "neighbours": [

@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "MC",
  "name": "Monaco",
- "built_at": "2026-11-05T06:31:48Z",
+ "built_at": "2026-11-18T03:02:41Z",
  "buffer_km": 50,
  "bbox": [
   7.3658,
@@ -63,11 +63,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/MC.202611050631.sqlite.deflate",
-  "bytes": 523404,
+  "path": "peaks/MC.202611180302.sqlite.deflate",
+  "bytes": 525238,
   "uncompressed_bytes": 1204224,
-  "sha256": "de177bff387b6ae1ef42571bb2c729dd74222d9539377146e6ce2dd6acb529e1",
-  "count": 4715,
+  "sha256": "010c950c8ae48e986544720bb2db563322dadcf2db993f04faa3fb9cd1e9482e",
+  "count": 4728,
   "schema_version": 1
  },
  "neighbours": [

@@ -2,7 +2,7 @@
  "format_version": 1,
  "code": "RO",
  "name": "Romania",
- "built_at": "2026-11-05T06:32:55Z",
+ "built_at": "2026-11-18T03:03:56Z",
  "buffer_km": 50,
  "bbox": [
   20.2428,
@@ -428,11 +428,11 @@
   ]
  },
  "peaks": {
-  "path": "peaks/RO.202611050632.sqlite.deflate",
-  "bytes": 674836,
-  "uncompressed_bytes": 1622016,
-  "sha256": "c1d84d4c0a407621f3243829d278d3d238b8a8370bf1e63b79dfcc675fa038b6",
-  "count": 6195,
+  "path": "peaks/RO.202611180303.sqlite.deflate",
+  "bytes": 1628979,
+  "uncompressed_bytes": 3760128,
+  "sha256": "87309cba017bf17fd71e28011ca7a81bc7f208972cc54da886e8c7c556c96950",
+  "count": 14678,
   "schema_version": 1
  },
  "neighbours": [
