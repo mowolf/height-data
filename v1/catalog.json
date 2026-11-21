@@ -1,6 +1,6 @@
 {
  "format_version": 1,
- "generated_at": "2026-11-18T03:05:37Z",
+ "generated_at": "2026-11-21T12:33:39Z",
  "attribution": [
   {
    "name": "Copernicus DEM",
@@ -26,6 +26,11 @@
    "name": "Natural Earth",
    "text": "Made with Natural Earth (public domain)",
    "url": "https://www.naturalearthdata.com"
+  },
+  {
+   "name": "Wikipedia",
+   "text": "Peak descriptions from Wikipedia articles, CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0/"
   }
  ],
  "land_tiles": {
@@ -1375,6 +1380,34 @@
    "neighbours": [
     "IT",
     "HR"
+   ]
+  },
+  {
+   "code": "TH",
+   "name": "Thailand",
+   "bbox": [
+    97.3514,
+    5.6299,
+    105.651,
+    20.445
+   ],
+   "manifest": "countries/TH.json",
+   "built_at": "2026-11-21T11:59:38Z",
+   "bytes": {
+    "90": 83476317,
+    "30": 428120642
+   },
+   "tiles": {
+    "90": 95,
+    "30": 56
+   },
+   "peaks": 11194,
+   "neighbours": [
+    "MY",
+    "VN",
+    "KH",
+    "LA",
+    "MM"
    ]
   },
   {
